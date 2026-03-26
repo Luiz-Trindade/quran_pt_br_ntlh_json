@@ -188,17 +188,23 @@
             {
                 "id": 18,
                 "text": "صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَرۡجِعُونَ",
-                "translation": "Deaf, dumb and blind - so they will not return [to the right path]"
+                "translation": "Deaf, dumb and blind - so they will not return [to the right path]",
+                "translation_pt": "Surdos, mudos e cegos. Não voltarão.",
+                "ntlh": true
             },
             {
                 "id": 19,
                 "text": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ",
-                "translation": "Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allah is encompassing of the disbelievers"
+                "translation": "Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allah is encompassing of the disbelievers",
+                "translation_pt": "Ou como uma forte chuva do céu, com trevas, trovão e relâmpago. Eles se cobrem nos ouvidos com medo da morte. Mas Deus sabe de tudo o que os não creem.",
+                "ntlh": true
             },
             {
                 "id": 20,
                 "text": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-                "translation": "The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand [still]. And if Allah had willed, He could have taken away their hearing and their sight. Indeed, Allah is over all things competent"
+                "translation": "The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand [still]. And if Allah had willed, He could have taken away their hearing and their sight. Indeed, Allah is over all things competent",
+                "translation_pt": "O relâmpago quase cega eles. Sempre que ilumina, caminham. Quando escurece, ficam parados. Se Deus quisesse, tiraria a audição e a visão deles. Deus é capaz de tudo.",
+                "ntlh": true
             },
             {
                 "id": 21,
