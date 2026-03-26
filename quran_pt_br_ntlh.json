@@ -237,17 +237,23 @@
             {
                 "id": 25,
                 "text": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ أَنَّ لَهُمۡ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ كُلَّمَا رُزِقُواْ مِنۡهَا مِن ثَمَرَةٖ رِّزۡقٗا قَالُواْ هَٰذَا ٱلَّذِي رُزِقۡنَا مِن قَبۡلُۖ وَأُتُواْ بِهِۦ مُتَشَٰبِهٗاۖ وَلَهُمۡ فِيهَآ أَزۡوَٰجٞ مُّطَهَّرَةٞۖ وَهُمۡ فِيهَا خَٰلِدُونَ",
-                "translation": "And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, \"This is what we were provided with before.\" And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally"
+                "translation": "And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, \"This is what we were provided with before.\" And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally",
+                "translation_pt": "Anuncie aos que creem e praticam o bem que terão jardins com rios. Sempre que comerem frutos, dirão: \"É o que recebemos antes\". Haverá ali esposas puras e eles habitarão para sempre.",
+                "ntlh": true
             },
             {
                 "id": 26,
                 "text": "۞إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلۡفَٰسِقِينَ",
-                "translation": "Indeed, Allah is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, \"What did Allah intend by this as an example?\" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient"
+                "translation": "Indeed, Allah is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, \"What did Allah intend by this as an example?\" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient",
+                "translation_pt": "Deus não tem vergonha de usar exemplos, como o de um mosquito. Os que creem sabem que é a verdade do seu Senhor. Mas os que não creem perguntam: \"Qual o propósito desse exemplo?\" Ele engana muitos com ele e guia muitos. Ele só engana os que se recusam a crer.",
+                "ntlh": true
             },
             {
                 "id": 27,
                 "text": "ٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِۚ أُوْلَـٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
-                "translation": "Who break the covenant of Allah after contracting it and sever that which Allah has ordered to be joined and cause corruption on earth. It is those who are the losers"
+                "translation": "Who break the covenant of Allah after contracting it and sever that which Allah has ordered to be joined and cause corruption on earth. It is those who are the losers",
+                "translation_pt": "Os que quebram o pacto de Deus, depois de o terem feito, e cortam o que Ele ordenou que fosse unido, e corrompem a terra. São eles os grandes perdedores.",
+                "ntlh": true
             },
             {
                 "id": 28,
