@@ -1,5 +1,12 @@
 # 🕌 Projeto de Tradução Acessível do Alcorão Sagrado
 
+[<image-card alt="Open Source" src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg" ></image-card>](https://opensource.org/)
+[<image-card alt="Non-Profit" src="https://img.shields.io/badge/Non--Profit-❤️-lightgrey.svg" ></image-card>](https://github.com/)
+[<image-card alt="AI Powered" src="https://img.shields.io/badge/AI%20Powered-gemma3n%3Ae4b-blue.svg" ></image-card>](https://ollama.com/)
+[<image-card alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" ></image-card>](https://ollama.com/)
+[<image-card alt="PT-BR" src="https://img.shields.io/badge/Language-PT--BR-green.svg" ></image-card>](https://github.com/)
+[<image-card alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg" ></image-card>](LICENSE)
+
 ## 🇧🇷 Português (pt-BR)
 
 🌟 Este é um projeto **open-source e sem fins lucrativos** criado com o objetivo de tornar o Alcorão Sagrado mais acessível a todas as pessoas que desejam ter um primeiro contato com o texto, independentemente de serem ou não muçulmanas.

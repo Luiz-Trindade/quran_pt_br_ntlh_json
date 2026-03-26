@@ -1,0 +1,72 @@
+### --- Python Core ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+### --- Virtual Environments ---
+# uv, venv, virtualenv, pipenv
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+pip-selfcheck.json
+
+### --- Local/Environment Variables ---
+# NUNCA suba arquivos .env com chaves de API ou senhas
+.env
+.venv
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+### --- IDEs (Sublime, VS Code, PyCharm) ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.history/
+
+### --- Database & Logs ---
+*.log
+*.sqlite
+*.sqlite3
+# Se estiver usando o JSON como DB temporário (como no seu projeto do Alcorão)
+# quran_pt_br_ntlh.json  <-- Descomente se não quiser subir o resultado parcial
+
+### --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### --- Ferramentas Modernas (Ruff, Pytest, Mypy) ---
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.dmypy.json
+dmypy.json
