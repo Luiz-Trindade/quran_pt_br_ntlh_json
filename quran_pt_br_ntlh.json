@@ -258,137 +258,191 @@
             {
                 "id": 28,
                 "text": "كَيۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَٰتٗا فَأَحۡيَٰكُمۡۖ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ",
-                "translation": "How can you disbelieve in Allah when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned"
+                "translation": "How can you disbelieve in Allah when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned",
+                "translation_pt": "Como negam Deus, quando eram mortos? Ele os fez viver, depois os mata, depois os faz viver de novo. E a Ele vocês voltarão.",
+                "ntlh": true
             },
             {
                 "id": 29,
                 "text": "هُوَ ٱلَّذِي خَلَقَ لَكُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ ٱسۡتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبۡعَ سَمَٰوَٰتٖۚ وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٞ",
-                "translation": "It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things"
+                "translation": "It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things",
+                "translation_pt": "Ele é Aquele que criou para vocês tudo o que há na terra. Depois, subiu aos céus e os organizou em sete. Ele sabe de tudo.",
+                "ntlh": true
             },
             {
                 "id": 30,
                 "text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ",
-                "translation": "And [mention, O Muhammad], when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority.\" They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?\" Allah said, \"Indeed, I know that which you do not know"
+                "translation": "And [mention, O Muhammad], when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority.\" They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?\" Allah said, \"Indeed, I know that which you do not know",
+                "translation_pt": "E quando Deus disse aos anjos: \"Eu farei um sucessor na terra\". Eles disseram: \"Você colocará alguém que cause confusão e derrama sangue? Nós o louvamos e o santificamos?\". Deus disse: \"Eu sei o que vocês não sabem\".",
+                "ntlh": true
             },
             {
                 "id": 31,
                 "text": "وَعَلَّمَ ءَادَمَ ٱلۡأَسۡمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمۡ عَلَى ٱلۡمَلَـٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِي بِأَسۡمَآءِ هَـٰٓؤُلَآءِ إِن كُنتُمۡ صَٰدِقِينَ",
-                "translation": "And He taught Adam the names - all of them. Then He showed them to the angels and said, \"Inform Me of the names of these, if you are truthful"
+                "translation": "And He taught Adam the names - all of them. Then He showed them to the angels and said, \"Inform Me of the names of these, if you are truthful",
+                "translation_pt": "Deus ensinou a Adão todos os nomes. Depois, mostrou-os aos anjos e disse: \"Digam-me os nomes deles, se forem sinceros.\"",
+                "ntlh": true
             },
             {
                 "id": 32,
                 "text": "قَالُواْ سُبۡحَٰنَكَ لَا عِلۡمَ لَنَآ إِلَّا مَا عَلَّمۡتَنَآۖ إِنَّكَ أَنتَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
-                "translation": "They said, \"Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise"
+                "translation": "They said, \"Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise",
+                "translation_pt": "Disseram: \"Sua glória! Não sabemos nada além do que nos ensinou. Você é o Todo-Sabendo, o Sábio.\"",
+                "ntlh": true
             },
             {
                 "id": 33,
                 "text": "قَالَ يَـٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ فَلَمَّآ أَنۢبَأَهُم بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ",
-                "translation": "He said, \"O Adam, inform them of their names.\" And when he had informed them of their names, He said, \"Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed"
+                "translation": "He said, \"O Adam, inform them of their names.\" And when he had informed them of their names, He said, \"Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed",
+                "translation_pt": "Ele disse: \"Ó Adão, fale sobre eles seus nomes.\" Quando ele lhes revelou os nomes, Deus disse: \"Não falei a vocês que conheço o que está no céu e na terra? E sei o que vocês mostram e o que vocês escondem.\"",
+                "ntlh": true
             },
             {
                 "id": 34,
                 "text": "وَإِذۡ قُلۡنَا لِلۡمَلَـٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ أَبَىٰ وَٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ",
-                "translation": "And [mention] when We said to the angels, \"Prostrate before Adam\"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers"
+                "translation": "And [mention] when We said to the angels, \"Prostrate before Adam\"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers",
+                "translation_pt": "E quando dissemos aos anjos: \"Prostrar-se a Adão!\" Eles se prostraram, exceto por Iblis. Ele se recusou, foi orgulhoso e se tornou dos incrédulos.",
+                "ntlh": true
             },
             {
                 "id": 35,
                 "text": "وَقُلۡنَا يَـٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ وَكُلَا مِنۡهَا رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ",
-                "translation": "And We said, \"O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers"
+                "translation": "And We said, \"O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers",
+                "translation_pt": "E disse: \"Ó Adão, habita o Paraíso com tua esposa. Comam à vontade e não se aproximem daquela árvore, para não serem dos injustos.",
+                "ntlh": true
             },
             {
                 "id": 36,
                 "text": "فَأَزَلَّهُمَا ٱلشَّيۡطَٰنُ عَنۡهَا فَأَخۡرَجَهُمَا مِمَّا كَانَا فِيهِۖ وَقُلۡنَا ٱهۡبِطُواْ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ وَلَكُمۡ فِي ٱلۡأَرۡضِ مُسۡتَقَرّٞ وَمَتَٰعٌ إِلَىٰ حِينٖ",
-                "translation": "But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, \"Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time"
+                "translation": "But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, \"Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time",
+                "translation_pt": "Então o Satanás os fez sair dali, removendo-os do lugar onde estavam. E dissemos: \"Desçam, uns contra os outros, e vocês terão na terra um lugar para viver e sustento por um tempo.\"",
+                "ntlh": true
             },
             {
                 "id": 37,
                 "text": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٖ فَتَابَ عَلَيۡهِۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
-                "translation": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful"
+                "translation": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful",
+                "translation_pt": "Então Adão recebeu palavras de Deus, e Ele aceitou seu arrependimento. Ele é o que aceita o arrependimento, o Misericordioso.",
+                "ntlh": true
             },
             {
                 "id": 38,
                 "text": "قُلۡنَا ٱهۡبِطُواْ مِنۡهَا جَمِيعٗاۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَن تَبِعَ هُدَايَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-                "translation": "We said, \"Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve"
+                "translation": "We said, \"Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve",
+                "translation_pt": "Dissemos: \"Descai daqui todos. Quando o meu guia vier, quem o seguir não terá medo nem tristeza.\"",
+                "ntlh": true
             },
             {
                 "id": 39,
                 "text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-                "translation": "And those who disbelieve and deny Our signs - those will be companions of the Fire; they will abide therein eternally"
+                "translation": "And those who disbelieve and deny Our signs - those will be companions of the Fire; they will abide therein eternally",
+                "translation_pt": "E os que não creram e mentiram sobre Nossas provas – aqueles serão companheiros do Fogo. E neles permanecerão para sempre.",
+                "ntlh": true
             },
             {
                 "id": 40,
                 "text": "يَٰبَنِيٓ إِسۡرَـٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّـٰيَ فَٱرۡهَبُونِ",
-                "translation": "O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me"
+                "translation": "O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me",
+                "translation_pt": "Ó filhos de Israel, lembrem-se da minha graça. Cumpram meu pacto, e eu cumprirei o vosso. Temam-me.",
+                "ntlh": true
             },
             {
                 "id": 41,
                 "text": "وَءَامِنُواْ بِمَآ أَنزَلۡتُ مُصَدِّقٗا لِّمَا مَعَكُمۡ وَلَا تَكُونُوٓاْ أَوَّلَ كَافِرِۭ بِهِۦۖ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗا وَإِيَّـٰيَ فَٱتَّقُونِ",
-                "translation": "And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me"
+                "translation": "And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me",
+                "translation_pt": "Acreditem no que eu enviei, confirmando o que já têm. Não sejam os primeiros a negar. Não troquem meus sinais por pouco. Temam-me.",
+                "ntlh": true
             },
             {
                 "id": 42,
                 "text": "وَلَا تَلۡبِسُواْ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُواْ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ",
-                "translation": "And do not mix the truth with falsehood or conceal the truth while you know [it]"
+                "translation": "And do not mix the truth with falsehood or conceal the truth while you know [it]",
+                "translation_pt": "Não misture a verdade com a mentira. Não escondam a verdade, mesmo sabendo dela.",
+                "ntlh": true
             },
             {
                 "id": 43,
                 "text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّـٰكِعِينَ",
-                "translation": "And establish prayer and give zakah and bow with those who bow [in worship and obedience]"
+                "translation": "And establish prayer and give zakah and bow with those who bow [in worship and obedience]",
+                "translation_pt": "E estabeleçam a oração e paguem o dízimo.\nInclinem-se com os que se inclinam.",
+                "ntlh": true
             },
             {
                 "id": 44,
                 "text": "۞أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ",
-                "translation": "Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason"
+                "translation": "Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason",
+                "translation_pt": "Vocês mandam as pessoas ao bem, mas esquecem a si mesmos? Vocês leem a escritura, então não entendem?",
+                "ntlh": true
             },
             {
                 "id": 45,
                 "text": "وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلۡخَٰشِعِينَ",
-                "translation": "And seek help through patience and prayer, and indeed, it is difficult except for the humbly submissive [to Allah]"
+                "translation": "And seek help through patience and prayer, and indeed, it is difficult except for the humbly submissive [to Allah]",
+                "translation_pt": "E procurem ajuda na paciência e na oração. Isso é difícil, a não ser para os humildes.",
+                "ntlh": true
             },
             {
                 "id": 46,
                 "text": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَأَنَّهُمۡ إِلَيۡهِ رَٰجِعُونَ",
-                "translation": "Who are certain that they will meet their Lord and that they will return to Him"
+                "translation": "Who are certain that they will meet their Lord and that they will return to Him",
+                "translation_pt": "Os que acham que encontrarão seu Senhor e que voltarão a Ele.",
+                "ntlh": true
             },
             {
                 "id": 47,
                 "text": "يَٰبَنِيٓ إِسۡرَـٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَنِّي فَضَّلۡتُكُمۡ عَلَى ٱلۡعَٰلَمِينَ",
-                "translation": "O Children of Israel, remember My favor that I have bestowed upon you and that I preferred you over the worlds"
+                "translation": "O Children of Israel, remember My favor that I have bestowed upon you and that I preferred you over the worlds",
+                "translation_pt": "Ó povo de Israel, lembrem-se da minha graça. Eu os favoreci sobre todos os povos.",
+                "ntlh": true
             },
             {
                 "id": 48,
                 "text": "وَٱتَّقُواْ يَوۡمٗا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٖ شَيۡـٔٗا وَلَا يُقۡبَلُ مِنۡهَا شَفَٰعَةٞ وَلَا يُؤۡخَذُ مِنۡهَا عَدۡلٞ وَلَا هُمۡ يُنصَرُونَ",
-                "translation": "And fear a Day when no soul will suffice for another soul at all, nor will intercession be accepted from it, nor will compensation be taken from it, nor will they be aided"
+                "translation": "And fear a Day when no soul will suffice for another soul at all, nor will intercession be accepted from it, nor will compensation be taken from it, nor will they be aided",
+                "translation_pt": "Temia o dia em que ninguém se ajudará. Nem intercessão será aceita. Nem compensação será dada. Nem serão socorridos.",
+                "ntlh": true
             },
             {
                 "id": 49,
                 "text": "وَإِذۡ نَجَّيۡنَٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ يُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ",
-                "translation": "And [recall] when We saved your forefathers from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord"
+                "translation": "And [recall] when We saved your forefathers from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord",
+                "translation_pt": "E quando Nós vos livramos de Faraó e seu povo, que vos afligia com grande sofrimento, matando vossos filhos e mantendo vossas mulheres, este foi um grande teste de Deus para vocês.",
+                "ntlh": true
             },
             {
                 "id": 50,
                 "text": "وَإِذۡ فَرَقۡنَا بِكُمُ ٱلۡبَحۡرَ فَأَنجَيۡنَٰكُمۡ وَأَغۡرَقۡنَآ ءَالَ فِرۡعَوۡنَ وَأَنتُمۡ تَنظُرُونَ",
-                "translation": "And [recall] when We parted the sea for you and saved you and drowned the people of Pharaoh while you were looking on"
+                "translation": "And [recall] when We parted the sea for you and saved you and drowned the people of Pharaoh while you were looking on",
+                "translation_pt": "E quando dividi o mar para vocês, os salvei e afoguei o povo de Faraó, enquanto vocês observavam.",
+                "ntlh": true
             },
             {
                 "id": 51,
                 "text": "وَإِذۡ وَٰعَدۡنَا مُوسَىٰٓ أَرۡبَعِينَ لَيۡلَةٗ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
-                "translation": "And [recall] when We made an appointment with Moses for forty nights. Then you took [for worship] the calf after him, while you were wrongdoers"
+                "translation": "And [recall] when We made an appointment with Moses for forty nights. Then you took [for worship] the calf after him, while you were wrongdoers",
+                "translation_pt": "E quando prometemos a Moisés quarenta noites. Depois, vocês tomaram o bezerro, sendo injustos.",
+                "ntlh": true
             },
             {
                 "id": 52,
                 "text": "ثُمَّ عَفَوۡنَا عَنكُم مِّنۢ بَعۡدِ ذَٰلِكَ لَعَلَّكُمۡ تَشۡكُرُونَ",
-                "translation": "Then We forgave you after that so perhaps you would be grateful"
+                "translation": "Then We forgave you after that so perhaps you would be grateful",
+                "translation_pt": "Então Nós vos perdoamos. Assim, agradeçam.",
+                "ntlh": true
             },
             {
                 "id": 53,
                 "text": "وَإِذۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَٱلۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُونَ",
-                "translation": "And [recall] when We gave Moses the Scripture and criterion that perhaps you would be guided"
+                "translation": "And [recall] when We gave Moses the Scripture and criterion that perhaps you would be guided",
+                "translation_pt": "E quando demos a Moisés a escrita e o guia, para que vocês se guiassem.",
+                "ntlh": true
             },
             {
                 "id": 54,
                 "text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ إِنَّكُمۡ ظَلَمۡتُمۡ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلۡعِجۡلَ فَتُوبُوٓاْ إِلَىٰ بَارِئِكُمۡ فَٱقۡتُلُوٓاْ أَنفُسَكُمۡ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ عِندَ بَارِئِكُمۡ فَتَابَ عَلَيۡكُمۡۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
-                "translation": "And [recall] when Moses said to his people, \"O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves. That is best for [all of] you in the sight of your Creator.\" Then He accepted your repentance; indeed, He is the Accepting of repentance, the Merciful"
+                "translation": "And [recall] when Moses said to his people, \"O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves. That is best for [all of] you in the sight of your Creator.\" Then He accepted your repentance; indeed, He is the Accepting of repentance, the Merciful",
+                "translation_pt": "E quando Moisés disse ao seu povo: \"Ó povo meu, vocês se prejudicaram ao adorar o bezerro. Arrependa-se a Deus. Matem-se. Isso é melhor para vocês com Deus. Ele aceitou o seu arrependimento. Ele é o que aceita o arrependimento, o Misericordioso.\"",
+                "ntlh": true
             },
             {
                 "id": 55,
