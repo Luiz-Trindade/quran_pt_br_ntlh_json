@@ -1,11 +1,12 @@
 # 🕌 Projeto de Tradução Acessível do Alcorão Sagrado
 
-[<image-card alt="Open Source" src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg" ></image-card>](https://opensource.org/)
-[<image-card alt="Non-Profit" src="https://img.shields.io/badge/Non--Profit-❤️-lightgrey.svg" ></image-card>](https://github.com/)
-[<image-card alt="AI Powered" src="https://img.shields.io/badge/AI%20Powered-gemma3n%3Ae4b-blue.svg" ></image-card>](https://ollama.com/)
-[<image-card alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" ></image-card>](https://ollama.com/)
-[<image-card alt="PT-BR" src="https://img.shields.io/badge/Language-PT--BR-green.svg" ></image-card>](https://github.com/)
-[<image-card alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg" ></image-card>](LICENSE)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Yes-brightgreen.svg" alt="Open Source">
+  <img src="https://img.shields.io/badge/Non--Profit-❤️-lightgrey.svg" alt="Non-Profit">
+  <img src="https://img.shields.io/badge/AI_Powered-gemma3n:e4b-blue.svg" alt="AI Powered">
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Language-PT--BR-green.svg" alt="Português">
+</p>
 
 ## 🇧🇷 Português (pt-BR)
 

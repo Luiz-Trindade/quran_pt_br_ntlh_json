@@ -181,7 +181,9 @@
             {
                 "id": 17,
                 "text": "مَثَلُهُمۡ كَمَثَلِ ٱلَّذِي ٱسۡتَوۡقَدَ نَارٗا فَلَمَّآ أَضَآءَتۡ مَا حَوۡلَهُۥ ذَهَبَ ٱللَّهُ بِنُورِهِمۡ وَتَرَكَهُمۡ فِي ظُلُمَٰتٖ لَّا يُبۡصِرُونَ",
-                "translation": "Their example is that of one who kindled a fire, but when it illuminated what was around him, Allah took away their light and left them in darkness [so] they could not see"
+                "translation": "Their example is that of one who kindled a fire, but when it illuminated what was around him, Allah took away their light and left them in darkness [so] they could not see",
+                "translation_pt": "O exemplo deles é como quem acendeu um fogo. Quando ele iluminou o que o cercava, Deus tirou a luz deles e os deixou na escuridão, sem ver nada.",
+                "ntlh": true
             },
             {
                 "id": 18,
