@@ -615,77 +615,107 @@
             {
                 "id": 79,
                 "text": "فَوَيۡلٞ لِّلَّذِينَ يَكۡتُبُونَ ٱلۡكِتَٰبَ بِأَيۡدِيهِمۡ ثُمَّ يَقُولُونَ هَٰذَا مِنۡ عِندِ ٱللَّهِ لِيَشۡتَرُواْ بِهِۦ ثَمَنٗا قَلِيلٗاۖ فَوَيۡلٞ لَّهُم مِّمَّا كَتَبَتۡ أَيۡدِيهِمۡ وَوَيۡلٞ لَّهُم مِّمَّا يَكۡسِبُونَ",
-                "translation": "So woe to those who write the \"scripture\" with their own hands, then say, \"This is from Allah,\" in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn"
+                "translation": "So woe to those who write the \"scripture\" with their own hands, then say, \"This is from Allah,\" in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn",
+                "translation_pt": "Que desgraça para quem escreve a escritura com as próprias mãos e diz: \"Isto é de Deus\", para vendê-la por pouco. Que desgraça para eles pelo que suas mãos escreveram e pelo que ganham.",
+                "ntlh": true
             },
             {
                 "id": 80,
                 "text": "وَقَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَةٗۚ قُلۡ أَتَّخَذۡتُمۡ عِندَ ٱللَّهِ عَهۡدٗا فَلَن يُخۡلِفَ ٱللَّهُ عَهۡدَهُۥٓۖ أَمۡ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
-                "translation": "And they say, \"Never will the Fire touch us, except for a few days.\" Say, \"Have you taken a covenant with Allah? For Allah will never break His covenant. Or do you say about Allah that which you do not know"
+                "translation": "And they say, \"Never will the Fire touch us, except for a few days.\" Say, \"Have you taken a covenant with Allah? For Allah will never break His covenant. Or do you say about Allah that which you do not know",
+                "translation_pt": "Eles dizem: \"O fogo não nos alcançará, a não ser por poucos dias\". Diga: \"Vocês fizeram um pacto com Deus? Ele não quebra seus pactos. Ou dizem coisas sobre Deus que não sabem?\"",
+                "ntlh": true
             },
             {
                 "id": 81,
                 "text": "بَلَىٰۚ مَن كَسَبَ سَيِّئَةٗ وَأَحَٰطَتۡ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-                "translation": "Yes, whoever earns evil and his sin has encompassed him - those are the companions of the Fire; they will abide therein eternally"
+                "translation": "Yes, whoever earns evil and his sin has encompassed him - those are the companions of the Fire; they will abide therein eternally",
+                "translation_pt": "Sim, quem comete o mal e seu pecado o cobre, são amigos do fogo. Eles ficarão nele para sempre.",
+                "ntlh": true
             },
             {
                 "id": 82,
                 "text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-                "translation": "But they who believe and do righteous deeds - those are the companions of Paradise; they will abide therein eternally"
+                "translation": "But they who believe and do righteous deeds - those are the companions of Paradise; they will abide therein eternally",
+                "translation_pt": "E os que creram e fizeram boas ações, são amigos do Paraíso. Neles eles ficarão para sempre.",
+                "ntlh": true
             },
             {
                 "id": 83,
                 "text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَـٰٓءِيلَ لَا تَعۡبُدُونَ إِلَّا ٱللَّهَ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَانٗا وَذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَقُولُواْ لِلنَّاسِ حُسۡنٗا وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيۡتُمۡ إِلَّا قَلِيلٗا مِّنكُمۡ وَأَنتُم مُّعۡرِضُونَ",
-                "translation": "And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], \"Do not worship except Allah; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakah.\" Then you turned away, except a few of you, and you were refusing"
+                "translation": "And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], \"Do not worship except Allah; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakah.\" Then you turned away, except a few of you, and you were refusing",
+                "translation_pt": "E quando demos a aliança a Israel, não adorem ninguém além de Deus. Honrem pais, parentes, órfãos e pobres. Sejam gentis com as pessoas, rezem e paguem o dízimo. Depois, vocês se afastaram, exceto alguns, e se recusaram.",
+                "ntlh": true
             },
             {
                 "id": 84,
                 "text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ لَا تَسۡفِكُونَ دِمَآءَكُمۡ وَلَا تُخۡرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمۡ ثُمَّ أَقۡرَرۡتُمۡ وَأَنتُمۡ تَشۡهَدُونَ",
-                "translation": "And [recall] when We took your covenant, [saying], \"Do not shed each other's blood or evict one another from your homes.\" Then you acknowledged [this] while you were witnessing"
+                "translation": "And [recall] when We took your covenant, [saying], \"Do not shed each other's blood or evict one another from your homes.\" Then you acknowledged [this] while you were witnessing",
+                "translation_pt": "E quando Nós tomamos o pacto de vocês: \"Não matem uns aos outros e não saiam de suas casas\". Então vocês confirmaram isso, testemunhando.",
+                "ntlh": true
             },
             {
                 "id": 85,
                 "text": "ثُمَّ أَنتُمۡ هَـٰٓؤُلَآءِ تَقۡتُلُونَ أَنفُسَكُمۡ وَتُخۡرِجُونَ فَرِيقٗا مِّنكُم مِّن دِيَٰرِهِمۡ تَظَٰهَرُونَ عَلَيۡهِم بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَإِن يَأۡتُوكُمۡ أُسَٰرَىٰ تُفَٰدُوهُمۡ وَهُوَ مُحَرَّمٌ عَلَيۡكُمۡ إِخۡرَاجُهُمۡۚ أَفَتُؤۡمِنُونَ بِبَعۡضِ ٱلۡكِتَٰبِ وَتَكۡفُرُونَ بِبَعۡضٖۚ فَمَا جَزَآءُ مَن يَفۡعَلُ ذَٰلِكَ مِنكُمۡ إِلَّا خِزۡيٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلۡعَذَابِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
-                "translation": "Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allah is not unaware of what you do"
+                "translation": "Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allah is not unaware of what you do",
+                "translation_pt": "Então vocês se matam e expulsam pessoas de suas casas. Juntos, cometem pecado e agressão. Se capturarem alguém, o libertam, mesmo que isso seja proibido. Acreditam em parte da escritura e negam outra? O castigo para quem faz isso é vergonha nesta vida. No Dia do Juízo, receberão o pior castigo. Deus sabe o que vocês fazem.",
+                "ntlh": true
             },
             {
                 "id": 86,
                 "text": "أُوْلَـٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۖ فَلَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنصَرُونَ",
-                "translation": "Those are the ones who have bought the life of this world [in exchange] for the Hereafter, so the punishment will not be lightened for them, nor will they be aided"
+                "translation": "Those are the ones who have bought the life of this world [in exchange] for the Hereafter, so the punishment will not be lightened for them, nor will they be aided",
+                "translation_pt": "Aqueles que trocaram a vida terrena pela vida seguinte. Não terão o castigo atenuado, nem serão ajudados.",
+                "ntlh": true
             },
             {
                 "id": 87,
                 "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَقَفَّيۡنَا مِنۢ بَعۡدِهِۦ بِٱلرُّسُلِۖ وَءَاتَيۡنَا عِيسَى ٱبۡنَ مَرۡيَمَ ٱلۡبَيِّنَٰتِ وَأَيَّدۡنَٰهُ بِرُوحِ ٱلۡقُدُسِۗ أَفَكُلَّمَا جَآءَكُمۡ رَسُولُۢ بِمَا لَا تَهۡوَىٰٓ أَنفُسُكُمُ ٱسۡتَكۡبَرۡتُمۡ فَفَرِيقٗا كَذَّبۡتُمۡ وَفَرِيقٗا تَقۡتُلُونَ",
-                "translation": "And We did certainly give Moses the Torah and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed"
+                "translation": "And We did certainly give Moses the Torah and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed",
+                "translation_pt": "Deus deu a Moisés a Torá e, depois, enviou mensageiros. A Jesus, filho de Maria, Deus deu provas claras e o fortaleceu com o Espírito Santo. Mas sempre que um mensageiro veio com o que vocês não queriam, vocês se tornavam orgulhosos. Alguns mentiram e outros o mataram.",
+                "ntlh": true
             },
             {
                 "id": 88,
                 "text": "وَقَالُواْ قُلُوبُنَا غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِيلٗا مَّا يُؤۡمِنُونَ",
-                "translation": "And they said, \"Our hearts are wrapped.\" But, [in fact], Allah has cursed them for their disbelief, so little is it that they believe"
+                "translation": "And they said, \"Our hearts are wrapped.\" But, [in fact], Allah has cursed them for their disbelief, so little is it that they believe",
+                "translation_pt": "Eles disseram: \"Nossos corações estão inertes.\" Mas Deus os amaldiçoou por sua descrença. Poucos creem.",
+                "ntlh": true
             },
             {
                 "id": 89,
                 "text": "وَلَمَّا جَآءَهُمۡ كِتَٰبٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ وَكَانُواْ مِن قَبۡلُ يَسۡتَفۡتِحُونَ عَلَى ٱلَّذِينَ كَفَرُواْ فَلَمَّا جَآءَهُم مَّا عَرَفُواْ كَفَرُواْ بِهِۦۚ فَلَعۡنَةُ ٱللَّهِ عَلَى ٱلۡكَٰفِرِينَ",
-                "translation": "And when there came to them a Book from Allah confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allah will be upon the disbelievers"
+                "translation": "And when there came to them a Book from Allah confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allah will be upon the disbelievers",
+                "translation_pt": "Quando Deus lhes enviou um livro, confirmando o que já tinham, e antes pediam vitória sobre os que não acreditavam. Mas quando Deus lhes enviou o livro que eles conheciam, rejeitaram-no. Então, a maldição de Deus cai sobre os que não acreditam.",
+                "ntlh": true
             },
             {
                 "id": 90,
                 "text": "بِئۡسَمَا ٱشۡتَرَوۡاْ بِهِۦٓ أَنفُسَهُمۡ أَن يَكۡفُرُواْ بِمَآ أَنزَلَ ٱللَّهُ بَغۡيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضۡلِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٖۚ وَلِلۡكَٰفِرِينَ عَذَابٞ مُّهِينٞ",
-                "translation": "How wretched is that for which they sold themselves - that they would disbelieve in what Allah has revealed through [their] outrage that Allah would send down His favor upon whom He wills from among His servants. So they returned having [earned] wrath upon wrath. And for the disbelievers is a humiliating punishment"
+                "translation": "How wretched is that for which they sold themselves - that they would disbelieve in what Allah has revealed through [their] outrage that Allah would send down His favor upon whom He wills from among His servants. So they returned having [earned] wrath upon wrath. And for the disbelievers is a humiliating punishment",
+                "translation_pt": "Que terrível o que compraram para si mesmos, a fim de rejeitar o que Deus revelou por injustiça. Assim, receberam a ira sobre a ira. E para os que não creem, há um castigo humilhante.",
+                "ntlh": true
             },
             {
                 "id": 91,
                 "text": "وَإِذَا قِيلَ لَهُمۡ ءَامِنُواْ بِمَآ أَنزَلَ ٱللَّهُ قَالُواْ نُؤۡمِنُ بِمَآ أُنزِلَ عَلَيۡنَا وَيَكۡفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلۡحَقُّ مُصَدِّقٗا لِّمَا مَعَهُمۡۗ قُلۡ فَلِمَ تَقۡتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبۡلُ إِن كُنتُم مُّؤۡمِنِينَ",
-                "translation": "And when it is said to them, \"Believe in what Allah has revealed,\" they say, \"We believe [only] in what was revealed to us.\" And they disbelieve in what came after it, while it is the truth confirming that which is with them. Say, \"Then why did you kill the prophets of Allah before, if you are [indeed] believers"
+                "translation": "And when it is said to them, \"Believe in what Allah has revealed,\" they say, \"We believe [only] in what was revealed to us.\" And they disbelieve in what came after it, while it is the truth confirming that which is with them. Say, \"Then why did you kill the prophets of Allah before, if you are [indeed] believers",
+                "translation_pt": "Quando dizem: \"Acreditem no que Deus revelou\", eles dizem: \"Acreditamos só no que veio para nós\". E não acreditam no que veio depois, embora seja a verdade que confirma o que têm. Diga: \"Por que mataram os profetas de Deus antes, se vocês são fiéis?\"",
+                "ntlh": true
             },
             {
                 "id": 92,
                 "text": "۞وَلَقَدۡ جَآءَكُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
-                "translation": "And Moses had certainly brought you clear proofs. Then you took the calf [in worship] after that, while you were wrongdoers"
+                "translation": "And Moses had certainly brought you clear proofs. Then you took the calf [in worship] after that, while you were wrongdoers",
+                "translation_pt": "E Moisés trouxe provas claras. Depois, vocês tomaram o bezerro e foram injustos.",
+                "ntlh": true
             },
             {
                 "id": 93,
                 "text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱسۡمَعُواْۖ قَالُواْ سَمِعۡنَا وَعَصَيۡنَا وَأُشۡرِبُواْ فِي قُلُوبِهِمُ ٱلۡعِجۡلَ بِكُفۡرِهِمۡۚ قُلۡ بِئۡسَمَا يَأۡمُرُكُم بِهِۦٓ إِيمَٰنُكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
-                "translation": "And [recall] when We took your covenant and raised over you the mount, [saying], \"Take what We have given you with determination and listen.\" They said [instead], \"We hear and disobey.\" And their hearts absorbed [the worship of] the calf because of their disbelief. Say, \"How wretched is that which your faith enjoins upon you, if you should be believers"
+                "translation": "And [recall] when We took your covenant and raised over you the mount, [saying], \"Take what We have given you with determination and listen.\" They said [instead], \"We hear and disobey.\" And their hearts absorbed [the worship of] the calf because of their disbelief. Say, \"How wretched is that which your faith enjoins upon you, if you should be believers",
+                "translation_pt": "E quando Nós tomamos o pacto de vocês e erguemos sobre vocês a montanha, digam: \"Tomem o que Nós lhes demos com firmeza\" e ouçam. Eles disseram: \"Ouvimos e desobedecemos\". E seus corações receberam o ídolo por causa de sua descrença. Diga: \"Quão terrível é o que sua fé ordena a vocês, se vocês forem fiéis\".",
+                "ntlh": true
             },
             {
                 "id": 94,
