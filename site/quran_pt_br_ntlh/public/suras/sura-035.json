@@ -1,0 +1,325 @@
+{
+  "id": 35,
+  "name": "فاطر",
+  "transliteration": "Fatir",
+  "translation": "Originator",
+  "type": "meccan",
+  "total_verses": 45,
+  "verses": [
+    {
+      "id": 1,
+      "text": "ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَـٰٓئِكَةِ رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+      "translation": "[All] praise is [due] to Allah, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allah is over all things competent",
+      "translation_pt": "Louvado seja Deus, criador dos céus e da terra. Ele fez os anjos mensageiros com asas, de dois, três ou quatro pares. Deus faz o que quer na criação. Ele tem poder sobre todas as coisas.",
+      "ntlh": true
+    },
+    {
+      "id": 2,
+      "text": "مَّا يَفۡتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحۡمَةٖ فَلَا مُمۡسِكَ لَهَاۖ وَمَا يُمۡسِكۡ فَلَا مُرۡسِلَ لَهُۥ مِنۢ بَعۡدِهِۦۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+      "translation": "Whatever Allah grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise",
+      "translation_pt": "O que Deus dá de graça, ninguém pode impedir. E o que ele impede, ninguém pode liberar depois. Ele é poderoso e sábio.",
+      "ntlh": true
+    },
+    {
+      "id": 3,
+      "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡۚ هَلۡ مِنۡ خَٰلِقٍ غَيۡرُ ٱللَّهِ يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ لَآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ",
+      "translation": "O mankind, remember the favor of Allah upon you. Is there any creator other than Allah who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded",
+      "translation_pt": "Pessoas, lembrem do bem que Deus fez a vocês. Quem, além de Deus, lhes dá comida do céu e da terra? Não há outro Deus. Como vocês se desviam?",
+      "ntlh": true
+    },
+    {
+      "id": 4,
+      "text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+      "translation": "And if they deny you, [O Muhammad] - already were messengers denied before you. And to Allah are returned [all] matters",
+      "translation_pt": "Se te negarem, outros mensageiros já foram negados antes. A Deus voltamos, tudo depende dele.",
+      "ntlh": true
+    },
+    {
+      "id": 5,
+      "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
+      "translation": "O mankind, indeed the promise of Allah is truth, so let not the worldly life delude you and be not deceived about Allah by the Deceiver",
+      "translation_pt": "Ó gente, a promessa de Deus é verdadeira.\nNão se deixem enganar pela vida aqui.\nNão se iludam com Deus por causa do enganador.",
+      "ntlh": true
+    },
+    {
+      "id": 6,
+      "text": "إِنَّ ٱلشَّيۡطَٰنَ لَكُمۡ عَدُوّٞ فَٱتَّخِذُوهُ عَدُوًّاۚ إِنَّمَا يَدۡعُواْ حِزۡبَهُۥ لِيَكُونُواْ مِنۡ أَصۡحَٰبِ ٱلسَّعِيرِ",
+      "translation": "Indeed, Satan is an enemy to you; so take him as an enemy. He only invites his party to be among the companions of the Blaze",
+      "translation_pt": "O demônio é seu inimigo. Vejam o demônio como tal. Ele chama seus seguidores para o fogo do inferno.",
+      "ntlh": true
+    },
+    {
+      "id": 7,
+      "text": "ٱلَّذِينَ كَفَرُواْ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٌ",
+      "translation": "Those who disbelieve will have a severe punishment, and those who believe and do righteous deeds will have forgiveness and great reward",
+      "translation_pt": "Para quem não crê, há um castigo terrível.\nPara quem crê e faz o bem, há perdão e grande recompensa.",
+      "ntlh": true
+    },
+    {
+      "id": 8,
+      "text": "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنٗاۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۖ فَلَا تَذۡهَبۡ نَفۡسُكَ عَلَيۡهِمۡ حَسَرَٰتٍۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا يَصۡنَعُونَ",
+      "translation": "Then is one to whom the evil of his deed has been made attractive so he considers it good [like one rightly guided]? For indeed, Allah sends astray whom He wills and guides whom He wills. So do not let yourself perish over them in regret. Indeed, Allah is Knowing of what they do",
+      "translation_pt": "Alguém acha que o mal que fez é bom? Deus engana quem ele quer e guia quem ele quer. Não se preocupe com eles. Deus sabe o que fazem.",
+      "ntlh": true
+    },
+    {
+      "id": 9,
+      "text": "وَٱللَّهُ ٱلَّذِيٓ أَرۡسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابٗا فَسُقۡنَٰهُ إِلَىٰ بَلَدٖ مَّيِّتٖ فَأَحۡيَيۡنَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ كَذَٰلِكَ ٱلنُّشُورُ",
+      "translation": "And it is Allah who sends the winds, and they stir the clouds, and We drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrection",
+      "translation_pt": "Deus envia os ventos, que movem as nuvens. Nós as levamos a uma terra seca e a revivemos. Assim é a ressurreição.",
+      "ntlh": true
+    },
+    {
+      "id": 10,
+      "text": "مَن كَانَ يُرِيدُ ٱلۡعِزَّةَ فَلِلَّهِ ٱلۡعِزَّةُ جَمِيعًاۚ إِلَيۡهِ يَصۡعَدُ ٱلۡكَلِمُ ٱلطَّيِّبُ وَٱلۡعَمَلُ ٱلصَّـٰلِحُ يَرۡفَعُهُۥۚ وَٱلَّذِينَ يَمۡكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَمَكۡرُ أُوْلَـٰٓئِكَ هُوَ يَبُورُ",
+      "translation": "Whoever desires honor [through power] - then to Allah belongs all honor. To Him ascends good speech, and righteous work raises it. But they who plot evil deeds will have a severe punishment, and the plotting of those - it will perish",
+      "translation_pt": "Quem busca poder, saiba que todo poder vem de Deus. Boas palavras e boas ações chegam a ele. Quem planeja o mal terá um castigo terrível, e seus planos fracassarão.",
+      "ntlh": true
+    },
+    {
+      "id": 11,
+      "text": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ جَعَلَكُمۡ أَزۡوَٰجٗاۚ وَمَا تَحۡمِلُ مِنۡ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلۡمِهِۦۚ وَمَا يُعَمَّرُ مِن مُّعَمَّرٖ وَلَا يُنقَصُ مِنۡ عُمُرِهِۦٓ إِلَّا فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+      "translation": "And Allah created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allah is easy",
+      "translation_pt": "Deus os criou do pó, depois de uma gota de esperma. E fez de vocês casais. Nenhuma mulher engravida ou dá à luz sem o conhecimento de Deus. A vida de ninguém aumenta nem diminui, exceto no livro Dele. Isso é fácil para Deus.",
+      "ntlh": true
+    },
+    {
+      "id": 12,
+      "text": "وَمَا يَسۡتَوِي ٱلۡبَحۡرَانِ هَٰذَا عَذۡبٞ فُرَاتٞ سَآئِغٞ شَرَابُهُۥ وَهَٰذَا مِلۡحٌ أُجَاجٞۖ وَمِن كُلّٖ تَأۡكُلُونَ لَحۡمٗا طَرِيّٗا وَتَسۡتَخۡرِجُونَ حِلۡيَةٗ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ فِيهِ مَوَاخِرَ لِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+      "translation": "And not alike are the two bodies of water. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful",
+      "translation_pt": "Dois mares não são iguais. Um é doce, bom de beber, e o outro é salgado e amargo. De ambos vocês comem carne fresca e tiram joias para usar. E veem os navios navegando para aproveitar o que Deus oferece. Sejam gratos!",
+      "ntlh": true
+    },
+    {
+      "id": 13,
+      "text": "يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِي لِأَجَلٖ مُّسَمّٗىۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ لَهُ ٱلۡمُلۡكُۚ وَٱلَّذِينَ تَدۡعُونَ مِن دُونِهِۦ مَا يَمۡلِكُونَ مِن قِطۡمِيرٍ",
+      "translation": "He causes the night to enter the day, and He causes the day to enter the night and has subjected the sun and the moon - each running [its course] for a specified term. That is Allah, your Lord; to Him belongs sovereignty. And those whom you invoke other than Him do not possess [as much as] the membrane of a date seed",
+      "translation_pt": "Deus faz a noite entrar no dia e o dia na noite. Ele controla o sol e a lua, cada um seguindo seu tempo. Esse é Deus, seu Senhor, e só ele tem poder. Aqueles que vocês adoram, além dele, não têm poder nem sobre um simples caroço de tâmara.",
+      "ntlh": true
+    },
+    {
+      "id": 14,
+      "text": "إِن تَدۡعُوهُمۡ لَا يَسۡمَعُواْ دُعَآءَكُمۡ وَلَوۡ سَمِعُواْ مَا ٱسۡتَجَابُواْ لَكُمۡۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكۡفُرُونَ بِشِرۡكِكُمۡۚ وَلَا يُنَبِّئُكَ مِثۡلُ خَبِيرٖ",
+      "translation": "If you invoke them, they do not hear your supplication; and if they heard, they would not respond to you. And on the Day of Resurrection they will deny your association. And none can inform you like [one] Acquainted [with all matters]",
+      "translation_pt": "Se vocês os chamarem, eles não ouvirão. E mesmo que ouçam, não responderão. No Juízo Final, negarão que eram seus parceiros. Deus sabe tudo.",
+      "ntlh": true
+    },
+    {
+      "id": 15,
+      "text": "۞يَـٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلۡفُقَرَآءُ إِلَى ٱللَّهِۖ وَٱللَّهُ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
+      "translation": "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy",
+      "translation_pt": "Ó gente, vocês precisam de Deus.\nDeus é rico e digno de louvor.",
+      "ntlh": true
+    },
+    {
+      "id": 16,
+      "text": "إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ",
+      "translation": "If He wills, He can do away with you and bring forth a new creation",
+      "translation_pt": "Se Deus quiser, pode acabar com vocês\ne trazer outra gente no lugar.",
+      "ntlh": true
+    },
+    {
+      "id": 17,
+      "text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ",
+      "translation": "And that is for Allah not difficult",
+      "translation_pt": "Isso não é difícil para Deus.",
+      "ntlh": true
+    },
+    {
+      "id": 18,
+      "text": "وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ وَإِن تَدۡعُ مُثۡقَلَةٌ إِلَىٰ حِمۡلِهَا لَا يُحۡمَلۡ مِنۡهُ شَيۡءٞ وَلَوۡ كَانَ ذَا قُرۡبَىٰٓۗ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَأَقَامُواْ ٱلصَّلَوٰةَۚ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفۡسِهِۦۚ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
+      "translation": "And no bearer of burdens will bear the burden of another. And if a heavily laden soul calls [another] to [carry some of] its load, nothing of it will be carried, even if he should be a close relative. You can only warn those who fear their Lord unseen and have established prayer. And whoever purifies himself only purifies himself for [the benefit of] his soul. And to Allah is the [final] destination",
+      "translation_pt": "Cada um é responsável por seus próprios atos. Ninguém vai carregar o peso de outro, nem mesmo um parente próximo. Você só pode alertar quem teme a Deus e ora com sinceridade. Quem se purificar, o faz para o seu bem. A Deus todos voltarão.",
+      "ntlh": true
+    },
+    {
+      "id": 19,
+      "text": "وَمَا يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ",
+      "translation": "Not equal are the blind and the seeing",
+      "translation_pt": "O cego e o que enxerga não são iguais.",
+      "ntlh": true
+    },
+    {
+      "id": 20,
+      "text": "وَلَا ٱلظُّلُمَٰتُ وَلَا ٱلنُّورُ",
+      "translation": "Nor are the darknesses and the light",
+      "translation_pt": "Nem a escuridão, nem a luz.",
+      "ntlh": true
+    },
+    {
+      "id": 21,
+      "text": "وَلَا ٱلظِّلُّ وَلَا ٱلۡحَرُورُ",
+      "translation": "Nor are the shade and the heat",
+      "translation_pt": "Nem a sombra, nem o calor.",
+      "ntlh": true
+    },
+    {
+      "id": 22,
+      "text": "وَمَا يَسۡتَوِي ٱلۡأَحۡيَآءُ وَلَا ٱلۡأَمۡوَٰتُۚ إِنَّ ٱللَّهَ يُسۡمِعُ مَن يَشَآءُۖ وَمَآ أَنتَ بِمُسۡمِعٖ مَّن فِي ٱلۡقُبُورِ",
+      "translation": "And not equal are the living and the dead. Indeed, Allah causes to hear whom He wills, but you cannot make hear those in the graves",
+      "translation_pt": "Vivos e mortos não são iguais. Deus faz ouvir quem ele quer. Você não pode fazer os mortos ouvirem.",
+      "ntlh": true
+    },
+    {
+      "id": 23,
+      "text": "إِنۡ أَنتَ إِلَّا نَذِيرٌ",
+      "translation": "You, [O Muhammad], are not but a warner",
+      "translation_pt": "Você só é um alertador.",
+      "ntlh": true
+    },
+    {
+      "id": 24,
+      "text": "إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۚ وَإِن مِّنۡ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٞ",
+      "translation": "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner",
+      "translation_pt": "Nós te enviamos com a verdade, para anunciar e alertar. E todo povo teve um alertador.",
+      "ntlh": true
+    },
+    {
+      "id": 25,
+      "text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
+      "translation": "And if they deny you - then already have those before them denied. Their messengers came to them with clear proofs and written ordinances and with the enlightening Scripture",
+      "translation_pt": "Se te negarem, outros já negaram antes. Mensageiros trouxeram provas, livros e escrituras claras.",
+      "ntlh": true
+    },
+    {
+      "id": 26,
+      "text": "ثُمَّ أَخَذۡتُ ٱلَّذِينَ كَفَرُواْۖ فَكَيۡفَ كَانَ نَكِيرِ",
+      "translation": "Then I seized the ones who disbelieved, and how [terrible] was My reproach",
+      "translation_pt": "Então peguei os que não creram. Que terrível foi minha punição!",
+      "ntlh": true
+    },
+    {
+      "id": 27,
+      "text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦ ثَمَرَٰتٖ مُّخۡتَلِفًا أَلۡوَٰنُهَاۚ وَمِنَ ٱلۡجِبَالِ جُدَدُۢ بِيضٞ وَحُمۡرٞ مُّخۡتَلِفٌ أَلۡوَٰنُهَا وَغَرَابِيبُ سُودٞ",
+      "translation": "Do you not see that Allah sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black",
+      "translation_pt": "Você não vê que Deus manda a chuva do céu? Com ela, fazemos crescer frutas de muitas cores. E nas montanhas, há terras brancas, vermelhas e até pretas.",
+      "ntlh": true
+    },
+    {
+      "id": 28,
+      "text": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلۡأَنۡعَٰمِ مُخۡتَلِفٌ أَلۡوَٰنُهُۥ كَذَٰلِكَۗ إِنَّمَا يَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ ٱلۡعُلَمَـٰٓؤُاْۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+      "translation": "And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allah, from among His servants, who have knowledge. Indeed, Allah is Exalted in Might and Forgiving",
+      "translation_pt": "Há pessoas, animais e rebanhos de várias cores. Só os sábios temem a Deus. Deus é poderoso e perdoa.",
+      "ntlh": true
+    },
+    {
+      "id": 29,
+      "text": "إِنَّ ٱلَّذِينَ يَتۡلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ يَرۡجُونَ تِجَٰرَةٗ لَّن تَبُورَ",
+      "translation": "Indeed, those who recite the Book of Allah and establish prayer and spend [in His cause] out of what We have provided them, secretly and publicly, [can] expect a profit that will never perish",
+      "translation_pt": "Quem lê o livro de Deus, ora e gasta o que recebeu, em segredo e abertamente, espera um lucro que não se perde.",
+      "ntlh": true
+    },
+    {
+      "id": 30,
+      "text": "لِيُوَفِّيَهُمۡ أُجُورَهُمۡ وَيَزِيدَهُم مِّن فَضۡلِهِۦٓۚ إِنَّهُۥ غَفُورٞ شَكُورٞ",
+      "translation": "That He may give them in full their rewards and increase for them of His bounty. Indeed, He is Forgiving and Appreciative",
+      "translation_pt": "Para pagar suas recompensas e aumentar sua graça.\nDeus perdoa e agradece sempre.",
+      "ntlh": true
+    },
+    {
+      "id": 31,
+      "text": "وَٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ هُوَ ٱلۡحَقُّ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرُۢ بَصِيرٞ",
+      "translation": "And that which We have revealed to you, [O Muhammad], of the Book is the truth, confirming what was before it. Indeed, Allah, of His servants, is Acquainted and Seeing",
+      "translation_pt": "O livro que te revelamos, Maomé, é a verdade. Ele confirma o que já existia antes. Deus conhece bem seus servos e tudo vê.",
+      "ntlh": true
+    },
+    {
+      "id": 32,
+      "text": "ثُمَّ أَوۡرَثۡنَا ٱلۡكِتَٰبَ ٱلَّذِينَ ٱصۡطَفَيۡنَا مِنۡ عِبَادِنَاۖ فَمِنۡهُمۡ ظَالِمٞ لِّنَفۡسِهِۦ وَمِنۡهُم مُّقۡتَصِدٞ وَمِنۡهُمۡ سَابِقُۢ بِٱلۡخَيۡرَٰتِ بِإِذۡنِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
+      "translation": "Then we caused to inherit the Book those We have chosen of Our servants; and among them is he who wrongs himself, and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allah. That [inheritance] is what is the great bounty",
+      "translation_pt": "Depois, demos o Livro àqueles que escolhemos entre nossos servos. Alguns se prejudicam, outros são moderados e outros se apressam em fazer o bem, com a permissão de Deus. Essa é uma grande bênção.",
+      "ntlh": true
+    },
+    {
+      "id": 33,
+      "text": "جَنَّـٰتُ عَدۡنٖ يَدۡخُلُونَهَا يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ",
+      "translation": "[For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk",
+      "translation_pt": "Eles entrarão nos jardins do Paraíso, com pulseiras de ouro e pérolas. Suas roupas serão de seda.",
+      "ntlh": true
+    },
+    {
+      "id": 34,
+      "text": "وَقَالُواْ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَذۡهَبَ عَنَّا ٱلۡحَزَنَۖ إِنَّ رَبَّنَا لَغَفُورٞ شَكُورٌ",
+      "translation": "And they will say, \"Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative",
+      "translation_pt": "E eles dirão: Louvado seja Deus, que tirou de nós a tristeza.\nNosso Senhor perdoa e agradece.",
+      "ntlh": true
+    },
+    {
+      "id": 35,
+      "text": "ٱلَّذِيٓ أَحَلَّنَا دَارَ ٱلۡمُقَامَةِ مِن فَضۡلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٞ وَلَا يَمَسُّنَا فِيهَا لُغُوبٞ",
+      "translation": "He who has settled us in the home of duration out of His bounty. There touches us not in it any fatigue, and there touches us not in it weariness [of mind]",
+      "translation_pt": "Deus nos deu um bom lugar para viver, por sua graça. Não sentimos cansaço ou tristeza nele.",
+      "ntlh": true
+    },
+    {
+      "id": 36,
+      "text": "وَٱلَّذِينَ كَفَرُواْ لَهُمۡ نَارُ جَهَنَّمَ لَا يُقۡضَىٰ عَلَيۡهِمۡ فَيَمُوتُواْ وَلَا يُخَفَّفُ عَنۡهُم مِّنۡ عَذَابِهَاۚ كَذَٰلِكَ نَجۡزِي كُلَّ كَفُورٖ",
+      "translation": "And for those who disbelieve will be the fire of Hell. [Death] is not decreed for them so they may die, nor will its torment be lightened for them. Thus do we recompense every ungrateful one",
+      "translation_pt": "Para os que não creram, haverá o fogo do inferno. Não morrerão para acabar com o sofrimento, e o castigo não será diminuído. Assim Deus recompensa os ingratos.",
+      "ntlh": true
+    },
+    {
+      "id": 37,
+      "text": "وَهُمۡ يَصۡطَرِخُونَ فِيهَا رَبَّنَآ أَخۡرِجۡنَا نَعۡمَلۡ صَٰلِحًا غَيۡرَ ٱلَّذِي كُنَّا نَعۡمَلُۚ أَوَلَمۡ نُعَمِّرۡكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُۖ فَذُوقُواْ فَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ",
+      "translation": "And they will cry out therein, \"Our Lord, remove us; we will do righteousness - other than what we were doing!\" But did We not grant you life enough for whoever would remember therein to remember, and the warner had come to you? So taste [the punishment], for there is not for the wrongdoers any helper",
+      "translation_pt": "E eles gritarão ali: “Deus, nos tire daqui! Faremos o bem, diferente do que fazíamos.” Deus dirá: “Não lhes dei vida suficiente para quem quisesse aprender e lembrasse? E o aviso chegou a vocês!” Provem o castigo, pois os injustos não terão ajuda.",
+      "ntlh": true
+    },
+    {
+      "id": 38,
+      "text": "إِنَّ ٱللَّهَ عَٰلِمُ غَيۡبِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "translation": "Indeed, Allah is Knower of the unseen [aspects] of the heavens and earth. Indeed, He is Knowing of that within the breasts",
+      "translation_pt": "Deus conhece o que está escondido nos céus e na terra. Ele sabe o que há em seus corações.",
+      "ntlh": true
+    },
+    {
+      "id": 39,
+      "text": "هُوَ ٱلَّذِي جَعَلَكُمۡ خَلَـٰٓئِفَ فِي ٱلۡأَرۡضِۚ فَمَن كَفَرَ فَعَلَيۡهِ كُفۡرُهُۥۖ وَلَا يَزِيدُ ٱلۡكَٰفِرِينَ كُفۡرُهُمۡ عِندَ رَبِّهِمۡ إِلَّا مَقۡتٗاۖ وَلَا يَزِيدُ ٱلۡكَٰفِرِينَ كُفۡرُهُمۡ إِلَّا خَسَارٗا",
+      "translation": "It is He who has made you successors upon the earth. And whoever disbelieves - upon him will be [the consequence of] his disbelief. And the disbelief of the disbelievers does not increase them in the sight of their Lord except in hatred; and the disbelief of the disbelievers does not increase them except in loss",
+      "translation_pt": "Deus os fez herdeiros da terra. Quem não crê, sofrerá as consequências. A incredulidade só aumenta o ódio de Deus e a perda para os incrédulos.",
+      "ntlh": true
+    },
+    {
+      "id": 40,
+      "text": "قُلۡ أَرَءَيۡتُمۡ شُرَكَآءَكُمُ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ أَرُونِي مَاذَا خَلَقُواْ مِنَ ٱلۡأَرۡضِ أَمۡ لَهُمۡ شِرۡكٞ فِي ٱلسَّمَٰوَٰتِ أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا فَهُمۡ عَلَىٰ بَيِّنَتٖ مِّنۡهُۚ بَلۡ إِن يَعِدُ ٱلظَّـٰلِمُونَ بَعۡضُهُم بَعۡضًا إِلَّا غُرُورًا",
+      "translation": "Say, \"Have you considered your 'partners' whom you invoke besides Allah? Show me what they have created from the earth, or have they partnership [with Him] in the heavens? Or have We given them a book so they are [standing] on evidence therefrom? [No], rather, the wrongdoers do not promise each other except delusion",
+      "translation_pt": "Pergunte: já pensaram nos seus parceiros que vocês chamam, além de Deus? Mostrem o que eles criaram na terra. Ou eles têm poder nos céus? Deus lhes deu um livro com provas disso? Não, os ímpios só prometem uns aos outros ilusões.",
+      "ntlh": true
+    },
+    {
+      "id": 41,
+      "text": "۞إِنَّ ٱللَّهَ يُمۡسِكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ أَن تَزُولَاۚ وَلَئِن زَالَتَآ إِنۡ أَمۡسَكَهُمَا مِنۡ أَحَدٖ مِّنۢ بَعۡدِهِۦٓۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورٗا",
+      "translation": "Indeed, Allah holds the heavens and the earth, lest they cease. And if they should cease, no one could hold them [in place] after Him. Indeed, He is Forbearing and Forgiving",
+      "translation_pt": "Deus mantém os céus e a terra no lugar. Se eles sumirem, ninguém os segurará. Deus é paciente e perdoa.",
+      "ntlh": true
+    },
+    {
+      "id": 42,
+      "text": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَئِن جَآءَهُمۡ نَذِيرٞ لَّيَكُونُنَّ أَهۡدَىٰ مِنۡ إِحۡدَى ٱلۡأُمَمِۖ فَلَمَّا جَآءَهُمۡ نَذِيرٞ مَّا زَادَهُمۡ إِلَّا نُفُورًا",
+      "translation": "And they swore by Allah their strongest oaths that if a warner came to them, they would be more guided than [any] one of the [previous] nations. But when a warner came to them, it did not increase them except in aversion",
+      "translation_pt": "Juraram por Deus com toda a força que, se um aviso chegasse, seriam mais guiados que os outros povos. Mas, quando o aviso veio, só aumentou a rejeição deles.",
+      "ntlh": true
+    },
+    {
+      "id": 43,
+      "text": "ٱسۡتِكۡبَارٗا فِي ٱلۡأَرۡضِ وَمَكۡرَ ٱلسَّيِّيِٕۚ وَلَا يَحِيقُ ٱلۡمَكۡرُ ٱلسَّيِّئُ إِلَّا بِأَهۡلِهِۦۚ فَهَلۡ يَنظُرُونَ إِلَّا سُنَّتَ ٱلۡأَوَّلِينَۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبۡدِيلٗاۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحۡوِيلًا",
+      "translation": "[Due to] arrogance in the land and plotting of evil; but the evil plot does not encompass except its own people. Then do they await except the way of the former peoples? But you will never find in the way of Allah any change, and you will never find in the way of Allah any alteration",
+      "translation_pt": "Orgulho e planos ruins na terra. Mas o mal atinge só quem o faz. Será que esperam o fim dos antigos? A lei de Deus não muda, nem se altera.",
+      "ntlh": true
+    },
+    {
+      "id": 44,
+      "text": "أَوَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡ وَكَانُوٓاْ أَشَدَّ مِنۡهُمۡ قُوَّةٗۚ وَمَا كَانَ ٱللَّهُ لِيُعۡجِزَهُۥ مِن شَيۡءٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِۚ إِنَّهُۥ كَانَ عَلِيمٗا قَدِيرٗا",
+      "translation": "Have they not traveled through the land and observed how was the end of those before them? And they were greater than them in power. But Allah is not to be caused failure by anything in the heavens or on the earth. Indeed, He is ever Knowing and Competent",
+      "translation_pt": "Será que eles não viajaram pela terra e viram o que aconteceu com os povos antigos? Eram mais fortes do que vocês. Mas nada pode impedir a Deus de fazer o que quer, nos céus ou na terra. Ele tudo sabe e pode.",
+      "ntlh": true
+    },
+    {
+      "id": 45,
+      "text": "وَلَوۡ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَىٰ ظَهۡرِهَا مِن دَآبَّةٖ وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۖ فَإِذَا جَآءَ أَجَلُهُمۡ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرَۢا",
+      "translation": "And if Allah were to impose blame on the people for what they have earned, He would not leave upon the earth any creature. But He defers them for a specified term. And when their time comes, then indeed Allah has ever been, of His servants, Seeing",
+      "translation_pt": "Se Deus punisse todos por seus erros, não sobraria criatura na terra. Mas ele espera o tempo certo. Quando chegar a hora, Deus verá o que cada um fez.",
+      "ntlh": true
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 99,
+  "name": "الزلزلة",
+  "transliteration": "Az-Zalzalah",
+  "translation": "The Earthquake",
+  "type": "medinan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "translation": "When the earth is shaken with its [final] earthquake",
+      "translation_pt": "Quando a terra tremer, com seu tremor.",
+      "ntlh": true
+    },
+    {
+      "id": 2,
+      "text": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+      "translation": "And the earth discharges its burdens",
+      "translation_pt": "A terra expulsou seus tesouros.",
+      "ntlh": true
+    },
+    {
+      "id": 3,
+      "text": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+      "translation": "And man says, \"What is [wrong] with it",
+      "translation_pt": "E o homem perguntou: o que houve com ela?",
+      "ntlh": true
+    },
+    {
+      "id": 4,
+      "text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+      "translation": "That Day, it will report its news",
+      "translation_pt": "Naquele dia, ela contará o que viu.",
+      "ntlh": true
+    },
+    {
+      "id": 5,
+      "text": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+      "translation": "Because your Lord has commanded it",
+      "translation_pt": "Deus a inspirou a fazer isso.",
+      "ntlh": true
+    },
+    {
+      "id": 6,
+      "text": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+      "translation": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds",
+      "translation_pt": "Naquele dia, cada um verá o que fez.",
+      "ntlh": true
+    },
+    {
+      "id": 7,
+      "text": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+      "translation": "So whoever does an atom's weight of good will see it",
+      "translation_pt": "Quem fizer o bem, mesmo que pequeno, verá.",
+      "ntlh": true
+    },
+    {
+      "id": 8,
+      "text": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+      "translation": "And whoever does an atom's weight of evil will see it",
+      "translation_pt": "Quem fizer o mal, mesmo que pequeno, verá.",
+      "ntlh": true
+    }
+  ]
+}

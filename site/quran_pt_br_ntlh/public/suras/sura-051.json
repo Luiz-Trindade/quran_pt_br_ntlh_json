@@ -1,0 +1,430 @@
+{
+  "id": 51,
+  "name": "الذاريات",
+  "transliteration": "Adh-Dhariyat",
+  "translation": "The Winnowing Winds",
+  "type": "meccan",
+  "total_verses": 60,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلذَّـٰرِيَٰتِ ذَرۡوٗا",
+      "translation": "By those [winds] scattering [dust] dispersing",
+      "translation_pt": "Pelos ventos que espalham a poeira.",
+      "ntlh": true
+    },
+    {
+      "id": 2,
+      "text": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
+      "translation": "And those [clouds] carrying a load [of water]",
+      "translation_pt": "E as nuvens carregadas de chuva.",
+      "ntlh": true
+    },
+    {
+      "id": 3,
+      "text": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
+      "translation": "And those [ships] sailing with ease",
+      "translation_pt": "E os navios deslizam suavemente.",
+      "ntlh": true
+    },
+    {
+      "id": 4,
+      "text": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
+      "translation": "And those [angels] apportioning [each] matter",
+      "translation_pt": "E os anjos que decidem cada coisa.",
+      "ntlh": true
+    },
+    {
+      "id": 5,
+      "text": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+      "translation": "Indeed, what you are promised is true",
+      "translation_pt": "O que vocês são prometidos é verdade.",
+      "ntlh": true
+    },
+    {
+      "id": 6,
+      "text": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
+      "translation": "And indeed, the recompense is to occur",
+      "translation_pt": "A punição certamente vai acontecer.",
+      "ntlh": true
+    },
+    {
+      "id": 7,
+      "text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
+      "translation": "By the heaven containing pathways",
+      "translation_pt": "Pelo céu que tem caminhos.",
+      "ntlh": true
+    },
+    {
+      "id": 8,
+      "text": "إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ",
+      "translation": "Indeed, you are in differing speech",
+      "translation_pt": "Vocês estão cheios de opiniões diferentes.",
+      "ntlh": true
+    },
+    {
+      "id": 9,
+      "text": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
+      "translation": "Deluded away from the Qur'an is he who is deluded",
+      "translation_pt": "Quem se desvia, é enganado por si mesmo.",
+      "ntlh": true
+    },
+    {
+      "id": 10,
+      "text": "قُتِلَ ٱلۡخَرَّـٰصُونَ",
+      "translation": "Destroyed are the falsifiers",
+      "translation_pt": "Que confusão para quem mente e engana!",
+      "ntlh": true
+    },
+    {
+      "id": 11,
+      "text": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
+      "translation": "Who are within a flood [of confusion] and heedless",
+      "translation_pt": "Estão perdidos em confusão e desatenção.",
+      "ntlh": true
+    },
+    {
+      "id": 12,
+      "text": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
+      "translation": "They ask, \"When is the Day of Recompense",
+      "translation_pt": "Eles perguntam: quando virá o Dia do Juízo?",
+      "ntlh": true
+    },
+    {
+      "id": 13,
+      "text": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
+      "translation": "[It is] the Day they will be tormented over the Fire",
+      "translation_pt": "No dia, serão provados junto ao fogo.",
+      "ntlh": true
+    },
+    {
+      "id": 14,
+      "text": "ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ",
+      "translation": "[And will be told], \"Taste your torment. This is that for which you were impatient",
+      "translation_pt": "Provem o castigo que tanto queriam.",
+      "ntlh": true
+    },
+    {
+      "id": 15,
+      "text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ",
+      "translation": "Indeed, the righteous will be among gardens and springs",
+      "translation_pt": "Os justos estarão em jardins e fontes.",
+      "ntlh": true
+    },
+    {
+      "id": 16,
+      "text": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ",
+      "translation": "Accepting what their Lord has given them. Indeed, they were before that doers of good",
+      "translation_pt": "Eles aceitam o que Deus lhes deu.\nAntes, eles eram bons.",
+      "ntlh": true
+    },
+    {
+      "id": 17,
+      "text": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+      "translation": "They used to sleep but little of the night",
+      "translation_pt": "Dormiam pouco à noite.",
+      "ntlh": true
+    },
+    {
+      "id": 18,
+      "text": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
+      "translation": "And in the hours before dawn they would ask forgiveness",
+      "translation_pt": "De madrugada, eles pedem perdão.",
+      "ntlh": true
+    },
+    {
+      "id": 19,
+      "text": "وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+      "translation": "And from their properties was [given] the right of the [needy] petitioner and the deprived",
+      "translation_pt": "Eles devem dar aos pobres e necessitados parte do que têm.",
+      "ntlh": true
+    },
+    {
+      "id": 20,
+      "text": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ",
+      "translation": "And on the earth are signs for the certain [in faith]",
+      "translation_pt": "Na terra há sinais para quem crê.",
+      "ntlh": true
+    },
+    {
+      "id": 21,
+      "text": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
+      "translation": "And in yourselves. Then will you not see",
+      "translation_pt": "E em vocês mesmos. Será que não veem?",
+      "ntlh": true
+    },
+    {
+      "id": 22,
+      "text": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
+      "translation": "And in the heaven is your provision and whatever you are promised",
+      "translation_pt": "No céu está o que vocês precisam\ne o que lhes foi prometido.",
+      "ntlh": true
+    },
+    {
+      "id": 23,
+      "text": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
+      "translation": "Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking",
+      "translation_pt": "Pelo Senhor do céu e da terra, isso é verdade. Assim como vocês falam.",
+      "ntlh": true
+    },
+    {
+      "id": 24,
+      "text": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
+      "translation": "Has there reached you the story of the honored guests of Abraham",
+      "translation_pt": "Chegou até você a história dos hóspedes importantes de Abraão?",
+      "ntlh": true
+    },
+    {
+      "id": 25,
+      "text": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ",
+      "translation": "When they entered upon him and said, \"[We greet you with] peace.\" He answered, \"[And upon you] peace, [you are] a people unknown",
+      "translation_pt": "Quando entraram, disseram: “Paz!”\nEle respondeu: “Paz!\nVocês são um povo estranho.”",
+      "ntlh": true
+    },
+    {
+      "id": 26,
+      "text": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
+      "translation": "Then he went to his family and came with a fat [roasted] calf",
+      "translation_pt": "Ele voltou para casa e trouxe um bezerro gordo.",
+      "ntlh": true
+    },
+    {
+      "id": 27,
+      "text": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
+      "translation": "And placed it near them; he said, \"Will you not eat",
+      "translation_pt": "Ele o aproximou deles e perguntou: \"Vocês não vão comer?\"",
+      "ntlh": true
+    },
+    {
+      "id": 28,
+      "text": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ",
+      "translation": "And he felt from them apprehension. They said, \"Fear not,\" and gave him good tidings of a learned boy",
+      "translation_pt": "Ele sentiu medo deles. Disseram: “Não tema”. E anunciaram um menino sábio.",
+      "ntlh": true
+    },
+    {
+      "id": 29,
+      "text": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
+      "translation": "And his wife approached with a cry [of alarm] and struck her face and said, \"[I am] a barren old woman",
+      "translation_pt": "A esposa dele chegou correndo, batendo no rosto, e disse: “Sou uma velha estéril!”",
+      "ntlh": true
+    },
+    {
+      "id": 30,
+      "text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+      "translation": "They said, \"Thus has said your Lord; indeed, He is the Wise, the Knowing",
+      "translation_pt": "Disseram: \"Assim disse o seu Deus.\nEle é Sábio e Conhecedor.\"",
+      "ntlh": true
+    },
+    {
+      "id": 31,
+      "text": "۞قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+      "translation": "[Abraham] said, \"Then what is your business [here], O messengers",
+      "translation_pt": "Disse ele: \"O que vocês querem, mensageiros?\"",
+      "ntlh": true
+    },
+    {
+      "id": 32,
+      "text": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+      "translation": "They said, \"Indeed, we have been sent to a people of criminals",
+      "translation_pt": "Eles disseram: \"Fomos enviados a um povo pecador.\"",
+      "ntlh": true
+    },
+    {
+      "id": 33,
+      "text": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
+      "translation": "To send down upon them stones of clay",
+      "translation_pt": "Para lançar sobre eles pedras de barro.",
+      "ntlh": true
+    },
+    {
+      "id": 34,
+      "text": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
+      "translation": "Marked in the presence of your Lord for the transgressors",
+      "translation_pt": "Marcada com Deus para quem se desviar.",
+      "ntlh": true
+    },
+    {
+      "id": 35,
+      "text": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ",
+      "translation": "So We brought out whoever was in the cities of the believers",
+      "translation_pt": "Livramos dali os que tinham fé.",
+      "ntlh": true
+    },
+    {
+      "id": 36,
+      "text": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
+      "translation": "And We found not within them other than a [single] house of Muslims",
+      "translation_pt": "Não achamos ali nenhuma casa de muçulmanos.",
+      "ntlh": true
+    },
+    {
+      "id": 37,
+      "text": "وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+      "translation": "And We left therein a sign for those who fear the painful punishment",
+      "translation_pt": "Deixamos ali um sinal para quem teme o terrível castigo.",
+      "ntlh": true
+    },
+    {
+      "id": 38,
+      "text": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ",
+      "translation": "And in Moses [was a sign], when We sent him to Pharaoh with clear authority",
+      "translation_pt": "E em Moisés, quando o enviamos a Faraó com poder claro.",
+      "ntlh": true
+    },
+    {
+      "id": 39,
+      "text": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ",
+      "translation": "But he turned away with his supporters and said,\" A magician or a madman",
+      "translation_pt": "Mas ele se afastou com seus amigos e disse: “É um mágico ou um louco.”",
+      "ntlh": true
+    },
+    {
+      "id": 40,
+      "text": "فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ",
+      "translation": "So We took him and his soldiers and cast them into the sea, and he was blameworthy",
+      "translation_pt": "Então o pegamos com seu exército\ne os jogamos no mar. Ele foi culpado.",
+      "ntlh": true
+    },
+    {
+      "id": 41,
+      "text": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ",
+      "translation": "And in 'Aad [was a sign], when We sent against them the barren wind",
+      "translation_pt": "E ao povo de Ad, enviamos o vento destruidor.",
+      "ntlh": true
+    },
+    {
+      "id": 42,
+      "text": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
+      "translation": "It left nothing of what it came upon but that it made it like disintegrated ruins",
+      "translation_pt": "Nada que tocou, ficou como pó esfarelado.",
+      "ntlh": true
+    },
+    {
+      "id": 43,
+      "text": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
+      "translation": "And in Thamud, when it was said to them, \"Enjoy yourselves for a time",
+      "translation_pt": "E ao povo de Samud, quando lhes disseram: “Aproveitem um pouco!”",
+      "ntlh": true
+    },
+    {
+      "id": 44,
+      "text": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ وَهُمۡ يَنظُرُونَ",
+      "translation": "But they were insolent toward the command of their Lord, so the thunderbolt seized them while they were looking on",
+      "translation_pt": "Desobedeceram a Deus e foram atingidos por um raio, vendo tudo acontecer.",
+      "ntlh": true
+    },
+    {
+      "id": 45,
+      "text": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ",
+      "translation": "And they were unable to arise, nor could they defend themselves",
+      "translation_pt": "Não puderam se levantar, nem se defender.",
+      "ntlh": true
+    },
+    {
+      "id": 46,
+      "text": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ",
+      "translation": "And [We destroyed] the people of Noah before; indeed, they were a people defiantly disobedient",
+      "translation_pt": "E o povo de Noé antes deles, pois eram desobedientes.",
+      "ntlh": true
+    },
+    {
+      "id": 47,
+      "text": "وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ",
+      "translation": "And the heaven We constructed with strength, and indeed, We are [its] expander",
+      "translation_pt": "E o céu construímos com poder. E nós o ampliaremos.",
+      "ntlh": true
+    },
+    {
+      "id": 48,
+      "text": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ",
+      "translation": "And the earth We have spread out, and excellent is the preparer",
+      "translation_pt": "E a terra estendemos. Que bom lugar preparamos!",
+      "ntlh": true
+    },
+    {
+      "id": 49,
+      "text": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
+      "translation": "And of all things We created two mates; perhaps you will remember",
+      "translation_pt": "E de tudo nós criamos um par. Quem quiser, pode lembrar.",
+      "ntlh": true
+    },
+    {
+      "id": 50,
+      "text": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+      "translation": "So flee to Allah. Indeed, I am to you from Him a clear warner",
+      "translation_pt": "Fugem para Deus! Sou um aviso claro dele para vocês.",
+      "ntlh": true
+    },
+    {
+      "id": 51,
+      "text": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+      "translation": "And do not make [as equal] with Allah another deity. Indeed, I am to you from Him a clear warner",
+      "translation_pt": "Não adorem outro deus junto com Deus. Sou um aviso claro de Deus para vocês.",
+      "ntlh": true
+    },
+    {
+      "id": 52,
+      "text": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ",
+      "translation": "Similarly, there came not to those before them any messenger except that they said, \"A magician or a madman",
+      "translation_pt": "Assim também, nenhum mensageiro veio antes, sem que dissessem: \"Ele é um mágico ou louco\".",
+      "ntlh": true
+    },
+    {
+      "id": 53,
+      "text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+      "translation": "Did they suggest it to them? Rather, they [themselves] are a transgressing people",
+      "translation_pt": "Eles se aconselharam sobre isso?\nNa verdade, são um povo rebelde.",
+      "ntlh": true
+    },
+    {
+      "id": 54,
+      "text": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ",
+      "translation": "So leave them, [O Muhammad], for you are not to be blamed",
+      "translation_pt": "Deixe-os, Maomé. Você não será culpado.",
+      "ntlh": true
+    },
+    {
+      "id": 55,
+      "text": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ",
+      "translation": "And remind, for indeed, the reminder benefits the believers",
+      "translation_pt": "Lembrem-se, pois o lembrete ajuda os crentes.",
+      "ntlh": true
+    },
+    {
+      "id": 56,
+      "text": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ",
+      "translation": "And I did not create the jinn and mankind except to worship Me",
+      "translation_pt": "Eu criei os gênios e os humanos para me adorarem.",
+      "ntlh": true
+    },
+    {
+      "id": 57,
+      "text": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ",
+      "translation": "I do not want from them any provision, nor do I want them to feed Me",
+      "translation_pt": "Não quero que me deem nada e nem que me alimentem.",
+      "ntlh": true
+    },
+    {
+      "id": 58,
+      "text": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
+      "translation": "Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength",
+      "translation_pt": "Deus é quem sustenta e dá força.",
+      "ntlh": true
+    },
+    {
+      "id": 59,
+      "text": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
+      "translation": "And indeed, for those who have wronged is a portion [of punishment] like the portion of their predecessors, so let them not impatiently urge Me",
+      "translation_pt": "Quem praticou o mal terá o mesmo castigo dos que o fizeram antes. Não peçam pressa a Deus.",
+      "ntlh": true
+    },
+    {
+      "id": 60,
+      "text": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
+      "translation": "And woe to those who have disbelieved from their Day which they are promised",
+      "translation_pt": "Que terrível dia para quem não crê, no dia prometido!",
+      "ntlh": true
+    }
+  ]
+}

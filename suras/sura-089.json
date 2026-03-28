@@ -1,0 +1,220 @@
+{
+  "id": 89,
+  "name": "الفجر",
+  "transliteration": "Al-Fajr",
+  "translation": "The Dawn",
+  "type": "meccan",
+  "total_verses": 30,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلۡفَجۡرِ",
+      "translation": "By the dawn",
+      "translation_pt": "Pela alvorada.",
+      "ntlh": true
+    },
+    {
+      "id": 2,
+      "text": "وَلَيَالٍ عَشۡرٖ",
+      "translation": "And [by] ten nights",
+      "translation_pt": "E por dez noites.",
+      "ntlh": true
+    },
+    {
+      "id": 3,
+      "text": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+      "translation": "And [by] the even [number] and the odd",
+      "translation_pt": "E pelo par e pelo ímpar.",
+      "ntlh": true
+    },
+    {
+      "id": 4,
+      "text": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+      "translation": "And [by] the night when it passes",
+      "translation_pt": "E pela noite quando ela se vai.",
+      "ntlh": true
+    },
+    {
+      "id": 5,
+      "text": "هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ",
+      "translation": "Is there [not] in [all] that an oath [sufficient] for one of perception",
+      "translation_pt": "Isso não é um juramento para quem tem bom senso?",
+      "ntlh": true
+    },
+    {
+      "id": 6,
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "translation": "Have you not considered how your Lord dealt with 'Aad",
+      "translation_pt": "Você já viu o que Deus fez com o povo de Ad?",
+      "ntlh": true
+    },
+    {
+      "id": 7,
+      "text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+      "translation": "[With] Iram - who had lofty pillars",
+      "translation_pt": "Iram, a cidade de altos pilares.",
+      "ntlh": true
+    },
+    {
+      "id": 8,
+      "text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
+      "translation": "The likes of whom had never been created in the land",
+      "translation_pt": "Que nunca houve igual em toda a terra.",
+      "ntlh": true
+    },
+    {
+      "id": 9,
+      "text": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ",
+      "translation": "And [with] Thamud, who carved out the rocks in the valley",
+      "translation_pt": "E o povo de Samud, que cavou nas rochas do vale.",
+      "ntlh": true
+    },
+    {
+      "id": 10,
+      "text": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+      "translation": "And [with] Pharaoh, owner of the stakes",
+      "translation_pt": "E Faraó, dono dos fortes pilares.",
+      "ntlh": true
+    },
+    {
+      "id": 11,
+      "text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
+      "translation": "[All of] whom oppressed within the lands",
+      "translation_pt": "Que agiram com violência na terra.",
+      "ntlh": true
+    },
+    {
+      "id": 12,
+      "text": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+      "translation": "And increased therein the corruption",
+      "translation_pt": "E causaram muita destruição nela.",
+      "ntlh": true
+    },
+    {
+      "id": 13,
+      "text": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+      "translation": "So your Lord poured upon them a scourge of punishment",
+      "translation_pt": "Então Deus derramou sobre eles um castigo terrível.",
+      "ntlh": true
+    },
+    {
+      "id": 14,
+      "text": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+      "translation": "Indeed, your Lord is in observation",
+      "translation_pt": "Deus está sempre de olho em você.",
+      "ntlh": true
+    },
+    {
+      "id": 15,
+      "text": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+      "translation": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me",
+      "translation_pt": "Quando Deus prova o ser humano e o abençoa,\nele diz: \"Meu Senhor me honrou.\"",
+      "ntlh": true
+    },
+    {
+      "id": 16,
+      "text": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
+      "translation": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me",
+      "translation_pt": "Mas, se Deus o provar e diminuir sua sorte, ele diz: \"Meu Senhor me desprezou.\"",
+      "ntlh": true
+    },
+    {
+      "id": 17,
+      "text": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+      "translation": "No! But you do not honor the orphan",
+      "translation_pt": "Não! Mas vocês não ajudam os órfãos.",
+      "ntlh": true
+    },
+    {
+      "id": 18,
+      "text": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "translation": "And you do not encourage one another to feed the poor",
+      "translation_pt": "E vocês não se incentivam a ajudar os pobres.",
+      "ntlh": true
+    },
+    {
+      "id": 19,
+      "text": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا",
+      "translation": "And you consume inheritance, devouring [it] altogether",
+      "translation_pt": "Vocês comem a herança sem pensar.",
+      "ntlh": true
+    },
+    {
+      "id": 20,
+      "text": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا",
+      "translation": "And you love wealth with immense love",
+      "translation_pt": "Vocês amam o dinheiro com grande paixão.",
+      "ntlh": true
+    },
+    {
+      "id": 21,
+      "text": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا",
+      "translation": "No! When the earth has been leveled - pounded and crushed",
+      "translation_pt": "Não! Quando a terra for esmagada, bem esmagada.",
+      "ntlh": true
+    },
+    {
+      "id": 22,
+      "text": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
+      "translation": "And your Lord has come and the angels, rank upon rank",
+      "translation_pt": "Deus veio, com os anjos em fileiras.",
+      "ntlh": true
+    },
+    {
+      "id": 23,
+      "text": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ",
+      "translation": "And brought [within view], that Day, is Hell - that Day, man will remember, but what good to him will be the remembrance",
+      "translation_pt": "Naquele dia, o inferno será trazido.\nEntão o homem vai se lembrar, mas não vai adiantar.",
+      "ntlh": true
+    },
+    {
+      "id": 24,
+      "text": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+      "translation": "He will say, \"Oh, I wish I had sent ahead [some good] for my life",
+      "translation_pt": "Ele dirá: “Queria ter feito algo bom\npara a minha vida!”",
+      "ntlh": true
+    },
+    {
+      "id": 25,
+      "text": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ",
+      "translation": "So on that Day, none will punish [as severely] as His punishment",
+      "translation_pt": "Naquele dia, ninguém punirá como Deus.",
+      "ntlh": true
+    },
+    {
+      "id": 26,
+      "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
+      "translation": "And none will bind [as severely] as His binding [of the evildoers]",
+      "translation_pt": "Ninguém prende como Deus prende.",
+      "ntlh": true
+    },
+    {
+      "id": 27,
+      "text": "يَـٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+      "translation": "[To the righteous it will be said], \"O reassured soul",
+      "translation_pt": "Ó alma tranquila, volte para Deus.",
+      "ntlh": true
+    },
+    {
+      "id": 28,
+      "text": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
+      "translation": "Return to your Lord, well-pleased and pleasing [to Him]",
+      "translation_pt": "Volte ao seu Deus, feliz e aceita por ele.",
+      "ntlh": true
+    },
+    {
+      "id": 29,
+      "text": "فَٱدۡخُلِي فِي عِبَٰدِي",
+      "translation": "And enter among My [righteous] servants",
+      "translation_pt": "Entre nos meus servos justos.",
+      "ntlh": true
+    },
+    {
+      "id": 30,
+      "text": "وَٱدۡخُلِي جَنَّتِي",
+      "translation": "And enter My Paradise",
+      "translation_pt": "Entre no meu Paraíso.",
+      "ntlh": true
+    }
+  ]
+}

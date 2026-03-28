@@ -1,0 +1,290 @@
+{
+  "id": 75,
+  "name": "القيامة",
+  "transliteration": "Al-Qiyamah",
+  "translation": "The Resurrection",
+  "type": "meccan",
+  "total_verses": 40,
+  "verses": [
+    {
+      "id": 1,
+      "text": "لَآ أُقۡسِمُ بِيَوۡمِ ٱلۡقِيَٰمَةِ",
+      "translation": "I swear by the Day of Resurrection",
+      "translation_pt": "Juro pelo Dia do Juízo Final.",
+      "ntlh": true
+    },
+    {
+      "id": 2,
+      "text": "وَلَآ أُقۡسِمُ بِٱلنَّفۡسِ ٱللَّوَّامَةِ",
+      "translation": "And I swear by the reproaching soul [to the certainty of resurrection]",
+      "translation_pt": "Juro pela alma que se culpa.",
+      "ntlh": true
+    },
+    {
+      "id": 3,
+      "text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ",
+      "translation": "Does man think that We will not assemble his bones",
+      "translation_pt": "Será que o homem pensa que não juntaremos seus ossos?",
+      "ntlh": true
+    },
+    {
+      "id": 4,
+      "text": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
+      "translation": "Yes. [We are] Able [even] to proportion his fingertips",
+      "translation_pt": "Sim, podemos refazer até a forma de seus dedos.",
+      "ntlh": true
+    },
+    {
+      "id": 5,
+      "text": "بَلۡ يُرِيدُ ٱلۡإِنسَٰنُ لِيَفۡجُرَ أَمَامَهُۥ",
+      "translation": "But man desires to continue in sin",
+      "translation_pt": "Mas o homem quer pecar sem parar.",
+      "ntlh": true
+    },
+    {
+      "id": 6,
+      "text": "يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ",
+      "translation": "He asks, \"When is the Day of Resurrection",
+      "translation_pt": "Ele pergunta: Quando será o Dia do Juízo?",
+      "ntlh": true
+    },
+    {
+      "id": 7,
+      "text": "فَإِذَا بَرِقَ ٱلۡبَصَرُ",
+      "translation": "So when vision is dazzled",
+      "translation_pt": "Quando os olhos se ofuscarem.",
+      "ntlh": true
+    },
+    {
+      "id": 8,
+      "text": "وَخَسَفَ ٱلۡقَمَرُ",
+      "translation": "And the moon darkens",
+      "translation_pt": "E a lua se obscureceu.",
+      "ntlh": true
+    },
+    {
+      "id": 9,
+      "text": "وَجُمِعَ ٱلشَّمۡسُ وَٱلۡقَمَرُ",
+      "translation": "And the sun and the moon are joined",
+      "translation_pt": "O sol e a lua serão unidos.",
+      "ntlh": true
+    },
+    {
+      "id": 10,
+      "text": "يَقُولُ ٱلۡإِنسَٰنُ يَوۡمَئِذٍ أَيۡنَ ٱلۡمَفَرُّ",
+      "translation": "Man will say on that Day, \"Where is the [place of] escape",
+      "translation_pt": "Naquele dia, o homem perguntará: onde posso escapar?",
+      "ntlh": true
+    },
+    {
+      "id": 11,
+      "text": "كَلَّا لَا وَزَرَ",
+      "translation": "No! There is no refuge",
+      "translation_pt": "Não! Não há proteção.",
+      "ntlh": true
+    },
+    {
+      "id": 12,
+      "text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمُسۡتَقَرُّ",
+      "translation": "To your Lord, that Day, is the [place of] permanence",
+      "translation_pt": "Aquele dia, o destino final é com Deus.",
+      "ntlh": true
+    },
+    {
+      "id": 13,
+      "text": "يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "translation": "Man will be informed that Day of what he sent ahead and kept back",
+      "translation_pt": "Naquele dia, cada um saberá o que fez.",
+      "ntlh": true
+    },
+    {
+      "id": 14,
+      "text": "بَلِ ٱلۡإِنسَٰنُ عَلَىٰ نَفۡسِهِۦ بَصِيرَةٞ",
+      "translation": "Rather, man, against himself, will be a witness",
+      "translation_pt": "Mas cada pessoa sabe o que fez.",
+      "ntlh": true
+    },
+    {
+      "id": 15,
+      "text": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
+      "translation": "Even if he presents his excuses",
+      "translation_pt": "Mesmo que ele apresente suas desculpas.",
+      "ntlh": true
+    },
+    {
+      "id": 16,
+      "text": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ",
+      "translation": "Move not your tongue with it, [O Muhammad], to hasten with recitation of the Qur'an",
+      "translation_pt": "Não o recite rápido com a língua.",
+      "ntlh": true
+    },
+    {
+      "id": 17,
+      "text": "إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ",
+      "translation": "Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation",
+      "translation_pt": "Nós o reuniremos e o leremos.",
+      "ntlh": true
+    },
+    {
+      "id": 18,
+      "text": "فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ",
+      "translation": "So when We have recited it [through Gabriel], then follow its recitation",
+      "translation_pt": "Quando o recitamos, siga a leitura.",
+      "ntlh": true
+    },
+    {
+      "id": 19,
+      "text": "ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ",
+      "translation": "Then upon Us is its clarification [to you]",
+      "translation_pt": "E nós devemos torná-lo claro para vocês.",
+      "ntlh": true
+    },
+    {
+      "id": 20,
+      "text": "كَلَّا بَلۡ تُحِبُّونَ ٱلۡعَاجِلَةَ",
+      "translation": "No! But you love the immediate",
+      "translation_pt": "Não! Mas vocês preferem a vida presente.",
+      "ntlh": true
+    },
+    {
+      "id": 21,
+      "text": "وَتَذَرُونَ ٱلۡأٓخِرَةَ",
+      "translation": "And leave the Hereafter",
+      "translation_pt": "E abandonam a vida futura.",
+      "ntlh": true
+    },
+    {
+      "id": 22,
+      "text": "وُجُوهٞ يَوۡمَئِذٖ نَّاضِرَةٌ",
+      "translation": "[Some] faces, that Day, will be radiant",
+      "translation_pt": "Alguns rostos, naquele dia, estarão radiantes.",
+      "ntlh": true
+    },
+    {
+      "id": 23,
+      "text": "إِلَىٰ رَبِّهَا نَاظِرَةٞ",
+      "translation": "Looking at their Lord",
+      "translation_pt": "Olhando para o seu Deus.",
+      "ntlh": true
+    },
+    {
+      "id": 24,
+      "text": "وَوُجُوهٞ يَوۡمَئِذِۭ بَاسِرَةٞ",
+      "translation": "And [some] faces, that Day, will be contorted",
+      "translation_pt": "Alguns rostos, naquele dia, estarão abatidos.",
+      "ntlh": true
+    },
+    {
+      "id": 25,
+      "text": "تَظُنُّ أَن يُفۡعَلَ بِهَا فَاقِرَةٞ",
+      "translation": "Expecting that there will be done to them [something] backbreaking",
+      "translation_pt": "Você acha que algo terrível vai acontecer.",
+      "ntlh": true
+    },
+    {
+      "id": 26,
+      "text": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِيَ",
+      "translation": "No! When the soul has reached the collar bones",
+      "translation_pt": "Não! Quando a alma chega ao pescoço.",
+      "ntlh": true
+    },
+    {
+      "id": 27,
+      "text": "وَقِيلَ مَنۡۜ رَاقٖ",
+      "translation": "And it is said, \"Who will cure [him]",
+      "translation_pt": "Quem vai curá-lo?",
+      "ntlh": true
+    },
+    {
+      "id": 28,
+      "text": "وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ",
+      "translation": "And the dying one is certain that it is the [time of] separation",
+      "translation_pt": "E ele pensou que seria a hora final.",
+      "ntlh": true
+    },
+    {
+      "id": 29,
+      "text": "وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "translation": "And the leg is wound about the leg",
+      "translation_pt": "Perna se enlaça com a outra perna.",
+      "ntlh": true
+    },
+    {
+      "id": 30,
+      "text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمَسَاقُ",
+      "translation": "To your Lord, that Day, will be the procession",
+      "translation_pt": "Naquele dia, todos serão levados a Deus.",
+      "ntlh": true
+    },
+    {
+      "id": 31,
+      "text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "translation": "And the disbeliever had not believed, nor had he prayed",
+      "translation_pt": "Ele não acreditou e nem orou.",
+      "ntlh": true
+    },
+    {
+      "id": 32,
+      "text": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "translation": "But [instead], he denied and turned away",
+      "translation_pt": "Mas ele negou e se afastou.",
+      "ntlh": true
+    },
+    {
+      "id": 33,
+      "text": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهۡلِهِۦ يَتَمَطَّىٰٓ",
+      "translation": "And then he went to his people, swaggering [in pride]",
+      "translation_pt": "Então voltou para sua família, cheio de orgulho.",
+      "ntlh": true
+    },
+    {
+      "id": 34,
+      "text": "أَوۡلَىٰ لَكَ فَأَوۡلَىٰ",
+      "translation": "Woe to you, and woe",
+      "translation_pt": "Que pena para você, e que pena!",
+      "ntlh": true
+    },
+    {
+      "id": 35,
+      "text": "ثُمَّ أَوۡلَىٰ لَكَ فَأَوۡلَىٰٓ",
+      "translation": "Then woe to you, and woe",
+      "translation_pt": "Então, que mal te espera, e mais mal.",
+      "ntlh": true
+    },
+    {
+      "id": 36,
+      "text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَن يُتۡرَكَ سُدًى",
+      "translation": "Does man think that he will be left neglected",
+      "translation_pt": "Será que o ser humano pensa que será deixado à toa?",
+      "ntlh": true
+    },
+    {
+      "id": 37,
+      "text": "أَلَمۡ يَكُ نُطۡفَةٗ مِّن مَّنِيّٖ يُمۡنَىٰ",
+      "translation": "Had he not been a sperm from semen emitted",
+      "translation_pt": "Não era ele uma gota de esperma?",
+      "ntlh": true
+    },
+    {
+      "id": 38,
+      "text": "ثُمَّ كَانَ عَلَقَةٗ فَخَلَقَ فَسَوَّىٰ",
+      "translation": "Then he was a clinging clot, and [Allah] created [his form] and proportioned [him]",
+      "translation_pt": "Depois foi uma gota de sangue.\nDeus o criou e o formou.",
+      "ntlh": true
+    },
+    {
+      "id": 39,
+      "text": "فَجَعَلَ مِنۡهُ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+      "translation": "And made of him two mates, the male and the female",
+      "translation_pt": "E fez dele um casal, o homem e a mulher.",
+      "ntlh": true
+    },
+    {
+      "id": 40,
+      "text": "أَلَيۡسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰ",
+      "translation": "Is not that [Creator] Able to give life to the dead",
+      "translation_pt": "Não seria ele capaz de dar vida aos mortos?",
+      "ntlh": true
+    }
+  ]
+}

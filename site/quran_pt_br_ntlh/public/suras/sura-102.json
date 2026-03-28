@@ -1,0 +1,66 @@
+{
+  "id": 102,
+  "name": "التكاثر",
+  "transliteration": "At-Takathur",
+  "translation": "The Rivalry in world increase",
+  "type": "meccan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "translation": "Competition in [worldly] increase diverts you",
+      "translation_pt": "A busca por mais bens os distraiu.",
+      "ntlh": true
+    },
+    {
+      "id": 2,
+      "text": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+      "translation": "Until you visit the graveyards",
+      "translation_pt": "Até visitarem os túmulos.",
+      "ntlh": true
+    },
+    {
+      "id": 3,
+      "text": "كَلَّا سَوۡفَ تَعۡلَمُونَ",
+      "translation": "No! You are going to know",
+      "translation_pt": "Não, vocês logo vão entender.",
+      "ntlh": true
+    },
+    {
+      "id": 4,
+      "text": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ",
+      "translation": "Then no! You are going to know",
+      "translation_pt": "Mas não! Em breve vocês saberão.",
+      "ntlh": true
+    },
+    {
+      "id": 5,
+      "text": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
+      "translation": "No! If you only knew with knowledge of certainty",
+      "translation_pt": "Não! Se soubessem o que é certo.",
+      "ntlh": true
+    },
+    {
+      "id": 6,
+      "text": "لَتَرَوُنَّ ٱلۡجَحِيمَ",
+      "translation": "You will surely see the Hellfire",
+      "translation_pt": "Vocês verão, sem dúvida, o inferno.",
+      "ntlh": true
+    },
+    {
+      "id": 7,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
+      "translation": "Then you will surely see it with the eye of certainty",
+      "translation_pt": "Então vocês verão isso com seus próprios olhos.",
+      "ntlh": true
+    },
+    {
+      "id": 8,
+      "text": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "translation": "Then you will surely be asked that Day about pleasure",
+      "translation_pt": "Naquele dia, perguntarão sobre os prazeres que tiveram.",
+      "ntlh": true
+    }
+  ]
+}
