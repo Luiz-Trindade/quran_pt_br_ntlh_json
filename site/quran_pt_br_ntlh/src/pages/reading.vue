@@ -38,11 +38,12 @@
                                 <!-- Botões -->
                                 <div class="d-flex justify-center gap-4">
                                     <v-btn icon="mdi-content-copy" size="large" variant="text" color="success"
-                                        @click="copyToClipboard(ayat.text, ayat)" title="Copiar versículo">
+                                        @click="copyToClipboard(ayat.translation_pt, ayat)" title="Copiar versículo">
                                     </v-btn>
 
                                     <v-btn icon="mdi-volume-high" size="large" variant="text" color="success"
-                                        @click="speakAyat(ayat.text)" :disabled="isSpeaking" title="Ler em voz alta">
+                                        @click="speakAyat(ayat.translation_pt)" :disabled="isSpeaking"
+                                        title="Ler em voz alta">
                                     </v-btn>
                                 </div>
                             </v-col>
@@ -72,7 +73,7 @@ interface Verse {
     number: number;
     text: string;
     translation?: string;
-    translation_pt?: string;
+    translation_pt: string;
 }
 
 interface Sura {
