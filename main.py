@@ -52,7 +52,8 @@ def calculate_max_portuguese_chars(arabic_text: str, english_text: str) -> int:
     return max_chars
 
 
-def translate_ayat(arabic_text: str, english_text: str, model: str = "gemma3n:e4b") -> str:
+# gemma3:27b-cloud, phi4-mini:3.8b, deepseek-v3.1:671b-cloud
+def translate_ayat(arabic_text: str, english_text: str, model: str = "gemma3:27b-cloud") -> str:
     max_chars = calculate_max_portuguese_chars(arabic_text, english_text)
     
     user_prompt = f"""
@@ -113,7 +114,8 @@ def translate_ayat(arabic_text: str, english_text: str, model: str = "gemma3n:e4
             # "repeat_penalty": 1.12,
             "num_predict": 350,
             "seed": 42
-        }
+        },
+        think=False
     )
     
     return response.message.content.strip()
