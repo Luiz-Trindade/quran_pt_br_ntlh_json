@@ -70,3 +70,6 @@ htmlcov/
 .nox/
 .dmypy.json
 dmypy.json
+
+### Vector Store
+quran_bge_m3_db/
